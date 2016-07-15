@@ -1,7 +1,7 @@
 # Awesome Persian NLP/IR, Tools And Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the list of some popular attempts. There is no comparison or benchmark, we have collected all of things I've seen. Please participate in its development.
- Thank you :) and [ACL WEB](http://aclweb.org/aclwiki/index.php?title=Resources_for_Persian)
+This is the list of some popular attempts.Please participate in its development. This list is curation of the best, not of everything.
+ Thanks to [ACL WEB](http://aclweb.org/aclwiki/index.php?title=Resources_for_Persian).
 
 ## Tools
 ### Part-of-Speech Tagger
