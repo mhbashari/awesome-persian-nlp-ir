@@ -20,7 +20,13 @@ This is the list of some popular attempts.Please participate in its development.
    2. [polyglot](http://mhbashari.ir/url/polyglot)
    3. [tok-tok](http://mhbashari.ir/url/tok-tok)
    4. [segmental](http://mhbashari.ir/url/segmental)
-    
+   5. [Persian Sentence Segmenter and Tokenizer: SeTPer](http://mhbashari.ir/url/setper)
+
+### Normalizer
+   1. [HAZM](http://mhbashari.ir/url/hazm)
+   2. [Persian Pre-processor: PrePer](http://mhbashari.ir/url/preper)
+   
+   
 ### Named Entity Recognition
    1. [polyglot](http://mhbashari.ir/url/polyglot)
 
@@ -34,7 +40,7 @@ This is the list of some popular attempts.Please participate in its development.
    1. [polyglot (polarity)](http://mhbashari.ir/url/polyglot)
    2. [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex)
    
-# Corpora
+# Data
 ### Part-of-Speech Tagger
    1. [Bijankhan Corpus](http://mhbashari.ir/url/bijankhan)
    1. [Mojgan Seraji Corpus](http://mhbashari.ir/url/ppsalaersianorpus)
@@ -43,8 +49,10 @@ This is the list of some popular attempts.Please participate in its development.
 ### Dependency Parsing
    1. [Persian Syntactic Dependency Treebank](http://mhbashari.ir/url/perdt)
    2. [Uppsala Persian Dependency Treebank: UPDT](http://mhbashari.ir/url/updt)
+     - [Pretrained model](http://mhbashari.ir/url/parsper-mate)
    3. [Universal Dependencies 1.3](http://mhbashari.ir/url/niversalependencies)
    4. [HamleDT 3.0](http://mhbashari.ir/url/amle)
+
    
 ### Spell Checking
    1. [FAspell](http://mhbashari.ir/url/spell)
