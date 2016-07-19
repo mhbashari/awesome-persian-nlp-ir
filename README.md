@@ -18,7 +18,7 @@ This is the list of some popular attempts.Please participate in its development.
 ### Tokenization & Segmentation
    1. [HAZM](http://mhbashari.ir/url/hazm)
    2. [polyglot](http://mhbashari.ir/url/polyglot)
-   3. [tokt-tok](http://mhbashari.ir/url/tok-tok)
+   3. [tok-tok](http://mhbashari.ir/url/tok-tok)
    4. [segmental](http://mhbashari.ir/url/segmental)
     
 ### Named Entity Recognition
