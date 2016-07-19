@@ -9,10 +9,10 @@ This is the list of some popular attempts.Please participate in its development.
   2. [HAZM](http://mhbashari.ir/url/hazm)
   4. [Persian Language Model for HunPoS](http://mhbashari.ir/url/unoager)
   5. [Maryam Tavafi POS Tagger ](http://mhbashari.ir/url/aryamavafi)
-  6. [Perstem](http://mhbashari.ir/url/perstem)
+  6. [Perstem] (http://mhbashari.ir/url/perstem) (Partial)
   7. [Persianp Toolbox](http://mhbashari.ir/url/ersianpoolbox)
 
-###Language Detection
+### Language Detection
   1. [google language detect (python port)](http://mhbashari.ir/url/langdetect)
   
 ### Tokenization & Segmentation
@@ -26,6 +26,8 @@ This is the list of some popular attempts.Please participate in its development.
    1. [HAZM](http://mhbashari.ir/url/hazm)
    2. [Persian Pre-processor: PrePer](http://mhbashari.ir/url/preper)
    
+### Transliterator
+   1. [Perstem](http://mhbashari.ir/url/perstem)
    
 ### Named Entity Recognition
    1. [polyglot](http://mhbashari.ir/url/polyglot)
@@ -36,6 +38,9 @@ This is the list of some popular attempts.Please participate in its development.
 ### Morphological Analysis
    1. [polyglot](http://mhbashari.ir/url/polyglot)
 
+### Stemmer
+   1. [Perstem](http://mhbashari.ir/url/perstem)
+   
 ### Sentiment Analysis
    1. [polyglot (polarity)](http://mhbashari.ir/url/polyglot)
    2. [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex)
