@@ -40,7 +40,8 @@ This is the list of some popular attempts.Please participate in its development.
 
 ### Stemmer
    1. [Perstem](http://mhbashari.ir/url/perstem)
-   
+   2. [polyglot](http://mhbashari.ir/url/polyglot) (In morphological analysing package)
+
 ### Sentiment Analysis
    1. [polyglot (polarity)](http://mhbashari.ir/url/polyglot)
    2. [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex)
