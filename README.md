@@ -46,7 +46,7 @@ This is the list of some popular attempts.Please participate in its development.
    1. [polyglot (polarity)](http://mhbashari.ir/url/polyglot)
    2. [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex)
    
-# Data
+## Data
 ### Part-of-Speech Tagger
    1. [Bijankhan Corpus](http://mhbashari.ir/url/bijankhan)
    1. [Mojgan Seraji Corpus](http://mhbashari.ir/url/ppsalaersianorpus)
@@ -68,7 +68,10 @@ This is the list of some popular attempts.Please participate in its development.
 
 ### Web Collected
    1. [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus)
-   
+ 
+## Papers
+   1. [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://mhbashari.ir/url/stemmerpaper01)
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
