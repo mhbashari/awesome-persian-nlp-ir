@@ -51,7 +51,7 @@ This is the list of some popular attempts.Please participate in its development.
    1. [Bijankhan Corpus](http://mhbashari.ir/url/bijankhan)
    1. [Mojgan Seraji Corpus](http://mhbashari.ir/url/ppsalaersianorpus)
    
-   
+
 ### Dependency Parsing
    1. [Persian Syntactic Dependency Treebank](http://mhbashari.ir/url/perdt)
    2. [Uppsala Persian Dependency Treebank: UPDT](http://mhbashari.ir/url/updt)
@@ -66,6 +66,9 @@ This is the list of some popular attempts.Please participate in its development.
 ### Machine Tanslation
    1. [TEP: Tehran English-Persian Parallel Corpus](http://mhbashari.ir/url/ehranabesources)
 
+### MISC
+   1. Multiword verbs [perspred](http://mhbashari.ir/url/perspred)
+   
 ### Web Collected
    1. [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus)
  
