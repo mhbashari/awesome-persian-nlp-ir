@@ -66,14 +66,12 @@ This is the list of some popular attempts.Please participate in its development.
 ### Machine Tanslation
    1. [TEP: Tehran English-Persian Parallel Corpus](http://mhbashari.ir/url/ehranabesources)
 
-### MISC
-   1. Multiword verbs [perspred](http://mhbashari.ir/url/perspred)
-   
 ### Web Collected
    1. [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus)
 
-### Stop Words
-   1. [My stopword list](http://mhbashari.ir/url/fastopwords)
+### MISC
+   1. Multiword verbs [perspred](http://mhbashari.ir/url/perspred)
+   2. [My stopword list](http://mhbashari.ir/url/fastopwords)
    
 ## Papers
    1. [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://mhbashari.ir/url/stemmerpaper01)
