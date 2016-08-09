@@ -39,27 +39,27 @@ This is the list of some popular attempts.Please participate in its development.
   1. [Google language detect (python port)](http://mhbashari.ir/url/langdetect) Small language detection with good performance.
   
 ### Tokenization & Segmentation
-   1. [HAZM](http://mhbashari.ir/url/hazm)Python library for digesting Persian text.
+   1. [HAZM](http://mhbashari.ir/url/hazm) Python library for digesting Persian text.
    2. [polyglot](http://mhbashari.ir/url/polyglot) Multi-lingual and Multi-purpose NLP Python library with pretrained models.
    3. [tok-tok](http://mhbashari.ir/url/tok-tok)Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
    4. [segmental](http://mhbashari.ir/url/segmental) you can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
    5. [Persian Sentence Segmenter and Tokenizer: SeTPer](http://mhbashari.ir/url/setper)
 
 ### Normalizer
-   1. [HAZM](http://mhbashari.ir/url/hazm)Python library for digesting Persian text.
+   1. [HAZM](http://mhbashari.ir/url/hazm) Python library for digesting Persian text.
    2. [Persian Pre-processor: PrePer](http://mhbashari.ir/url/preper) Another signle .pl tools that normals your persian text
    
 ### Transliterator
    1. [Perstem](http://mhbashari.ir/url/perstem) rule based transliterator with single .pl file
    
 ### Named Entity Recognition
-   1. [polyglot](http://mhbashari.ir/url/polyglot)Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   1. [polyglot](http://mhbashari.ir/url/polyglot) Multi-lingual and Multi-purpose NLP Python library with pretrained models.
 
 ### Embeddings
-   1. [polyglot](http://mhbashari.ir/url/polyglot)Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   1. [polyglot](http://mhbashari.ir/url/polyglot) 
 
 ### Morphological Analysis
-   1. [polyglot](http://mhbashari.ir/url/polyglot)Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   1. [polyglot](http://mhbashari.ir/url/polyglot) 
 
 ### Stemmer
    1. [Perstem](http://mhbashari.ir/url/perstem) rule based stemmer with single .pl file
