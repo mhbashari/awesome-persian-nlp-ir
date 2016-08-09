@@ -85,7 +85,7 @@ This is the list of some popular attempts.Please participate in its development.
 
    
 ### Spell Checking
-   1. [FAspell](http://mhbashari.ir/url/spell)FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
+   1. [FAspell](http://mhbashari.ir/url/spell) FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 
 ### Machine Tanslation
    1. [TEP: Tehran English-Persian Parallel Corpus](http://mhbashari.ir/url/ehranabesources) First free English-Persian corpus
