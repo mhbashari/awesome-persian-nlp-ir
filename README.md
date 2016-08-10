@@ -14,7 +14,7 @@ This is the list of some popular attempts.Please participate in its development.
     - [Morphological Analysis](https://github.com/mhbashari/awesome-persian-nlp-ir#morphological-analysis)
     - [Stemmer](https://github.com/mhbashari/awesome-persian-nlp-ir#stemmer)
     - [Sentiment Analysis](https://github.com/mhbashari/awesome-persian-nlp-ir#sentiment-analysis)
- 
+    
  - Data
     - [Part-of-Speech Tagger](https://github.com/mhbashari/awesome-persian-nlp-ir#part-of-speech-tagger-1)
     - [Dependency Parsing](https://github.com/mhbashari/awesome-persian-nlp-ir#dependency-parsing)
@@ -28,70 +28,70 @@ This is the list of some popular attempts.Please participate in its development.
  
 ## Tools
 ### Part-of-Speech Tagger
-  1. [farsiNLPTools](http://mhbashari.ir/url/farsiools) Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
-  2. [HAZM](http://mhbashari.ir/url/hazm) Python library for digesting Persian text.
-  4. [Persian Language Model for HunPoS](http://mhbashari.ir/url/unoager) HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
-  5. [Maryam Tavafi POS Tagger ](http://mhbashari.ir/url/aryamavafi)Persian Part of Speech Tagger
-  6. [Perstem] (http://mhbashari.ir/url/perstem) rule based POS tagger with single .pl file
-  7. [Persianp Toolbox](http://mhbashari.ir/url/ersianpoolbox) multi-purpose persian NLP toolbox
+  1. [farsiNLPTools](http://mhbashari.ir/url/farsiools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
+  2. [HAZM](http://mhbashari.ir/url/hazm) - Python library for digesting Persian text.
+  4. [Persian Language Model for HunPoS](http://mhbashari.ir/url/unoager) - HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
+  5. [Maryam Tavafi POS Tagger ](http://mhbashari.ir/url/aryamavafi) - Persian Part of Speech Tagger
+  6. [Perstem] (http://mhbashari.ir/url/perstem) - Rule based POS tagger with single .pl file
+  7. [Persianp Toolbox](http://mhbashari.ir/url/ersianpoolbox) - Multi-purpose persian NLP toolbox
 
 ### Language Detection
-  1. [Google language detect (python port)](http://mhbashari.ir/url/langdetect) Small language detection with good performance.
+  1. [Google language detect (python port)](http://mhbashari.ir/url/langdetect) - Light Weight language detector, its performance for persian is excellent.
   
 ### Tokenization & Segmentation
-   1. [HAZM](http://mhbashari.ir/url/hazm) Python library for digesting Persian text.
-   2. [polyglot](http://mhbashari.ir/url/polyglot) Multi-lingual and Multi-purpose NLP Python library with pretrained models.
-   3. [tok-tok](http://mhbashari.ir/url/tok-tok)Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
-   4. [segmental](http://mhbashari.ir/url/segmental) you can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
-   5. [Persian Sentence Segmenter and Tokenizer: SeTPer](http://mhbashari.ir/url/setper)
+   1. [HAZM](http://mhbashari.ir/url/hazm) - Python library for digesting Persian text.
+   2. [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   3. [tok-tok](http://mhbashari.ir/url/tok-tok) - Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
+   4. [segmental](http://mhbashari.ir/url/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
+   5. [Persian Sentence Segmenter and Tokenizer: SeTPer](http://mhbashari.ir/url/setper) - Regex based sentence segmenter
 
 ### Normalizer
-   1. [HAZM](http://mhbashari.ir/url/hazm) Python library for digesting Persian text.
-   2. [Persian Pre-processor: PrePer](http://mhbashari.ir/url/preper) Another signle .pl tools that normals your persian text
+   1. [HAZM](http://mhbashari.ir/url/hazm) - Python library for digesting Persian text.
+   2. [Persian Pre-processor: PrePer](http://mhbashari.ir/url/preper) - Another signle .pl tools that normals your persian text
    
 ### Transliterator
-   1. [Perstem](http://mhbashari.ir/url/perstem) rule based transliterator with single .pl file
+   1. [Perstem](http://mhbashari.ir/url/perstem) - Rule based transliterator with single .pl file
    
 ### Named Entity Recognition
-   1. [polyglot](http://mhbashari.ir/url/polyglot) Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   1. [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.
 
 ### Embeddings
-   1. [polyglot](http://mhbashari.ir/url/polyglot) 
+   1. [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models. 
 
 ### Morphological Analysis
-   1. [polyglot](http://mhbashari.ir/url/polyglot) 
+   1. [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models. 
 
 ### Stemmer
-   1. [Perstem](http://mhbashari.ir/url/perstem) rule based stemmer with single .pl file
-   2. [polyglot](http://mhbashari.ir/url/polyglot)(In morphological analysing package).Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   1. [Perstem](http://mhbashari.ir/url/perstem) - Rule based stemmer with single .pl file
+   2. [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.Stemming by using the morphological analysing package.
 
 ### Sentiment Analysis
-   1. [polyglot (polarity)](http://mhbashari.ir/url/polyglot) Multi-lingual and Multi-purpose NLP Python library with pretrained models.
-   2. [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex) NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
+   1. [polyglot (polarity)](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   2. [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
 
    
 ## Data
 ### Part-of-Speech Tagger
-   1. [Bijankhan Corpus](http://mhbashari.ir/url/bijankhan) one of the The most famous persian corpora
-   1. [Mojgan Seraji Corpus](http://mhbashari.ir/url/ppsalaersianorpus)  is a modified version of the Bijankhan corpus
+   1. [Bijankhan Corpus](http://mhbashari.ir/url/bijankhan) - One of the The most famous persian corpora
+   1. [Mojgan Seraji Corpus](http://mhbashari.ir/url/ppsalaersianorpus) - is a modified version of the Bijankhan corpus
    
 
 ### Dependency Parsing
-   1. [Persian Syntactic Dependency Treebank](http://mhbashari.ir/url/perdt)
-   2. [Uppsala Persian Dependency Treebank: UPDT](http://mhbashari.ir/url/updt)
+   1. [Persian Syntactic Dependency Treebank](http://mhbashari.ir/url/perdt) - This treebank is supplied for free noncommercial use. For commercial uses feel free to contact us. The number of annotated sentences is 29,982 sentences including samples from almost all verbs of the Persian valency lexicon.   
+   2. [Uppsala Persian Dependency Treebank: UPDT](http://mhbashari.ir/url/updt) - Dependency-based syntactically annotated corpus.
      - [Pretrained model](http://mhbashari.ir/url/parsper-mate)
-   3. [Universal Dependencies 1.3](http://mhbashari.ir/url/niversalependencies) Multi lingual corpus that holds IOB gold data for dependency parsing
-   4. [HamleDT 3.0](http://mhbashari.ir/url/amle) HamleDT (HArmonized Multi-LanguagE Dependency Treebank) is a compilation of existing dependency treebanks (or dependency conversions of other treebanks), transformed so that they all conform to the same annotation style. This version uses Universal Dependencies as the common annotation style.
+   3. [Universal Dependencies 1.3](http://mhbashari.ir/url/niversalependencies) - Multi lingual corpus that holds IOB gold data for dependency parsing
+   4. [HamleDT 3.0](http://mhbashari.ir/url/amle) - HArmonized Multi-LanguagE Dependency Treebank is a compilation of existing dependency treebanks (or dependency conversions of other treebanks), transformed so that they all conform to the same annotation style. This version uses Universal Dependencies as the common annotation style.
 
    
 ### Spell Checking
-   1. [FAspell](http://mhbashari.ir/url/spell) FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
+   1. [FAspell](http://mhbashari.ir/url/spell) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 
 ### Machine Tanslation
-   1. [TEP: Tehran English-Persian Parallel Corpus](http://mhbashari.ir/url/ehranabesources) First free English-Persian corpus
+   1. [TEP: Tehran English-Persian Parallel Corpus](http://mhbashari.ir/url/ehranabesources) - First free English-Persian corpus
 
 ### Web Collected
-   1. [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus) A set of corpora for 120 languages automatically collected from wikipedia and the web. 
+   1. [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus) - A set of corpora for 120 languages automatically collected from wikipedia and the web. 
 
 ### MISC
    1. Multiword verbs [perspred](http://mhbashari.ir/url/perspred)
