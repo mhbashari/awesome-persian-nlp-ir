@@ -98,7 +98,7 @@ This list is curation of the best, not of everything.Please participate in its d
 
 ### IR Systems Evaluation
    - [Hamshahri](http://mhbashari.ir/url/hamshahri) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
-   - 
+
 ### MISC
    - [perspred](http://mhbashari.ir/url/perspred) - Multiword verbs. 
    - [My stopword list](http://mhbashari.ir/url/fastopwords) - Curated List of persian stop words.
