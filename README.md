@@ -17,10 +17,12 @@ This list is curation of the best, not of everything.Please participate in its d
  - Data
     - [Part-of-Speech Tagger](https://github.com/mhbashari/awesome-persian-nlp-ir#part-of-speech-tagger-1)
     - [Dependency Parsing](https://github.com/mhbashari/awesome-persian-nlp-ir#dependency-parsing)
+    - [Text Categorization and Classification](https://github.com/mhbashari/awesome-persian-nlp-ir#text-categorization-and-classification)
     - [Spell Checking](https://github.com/mhbashari/awesome-persian-nlp-ir#spell-checking)
     - [Machine Tanslation](https://github.com/mhbashari/awesome-persian-nlp-ir#machine-tanslation)
     - [Web Collected](https://github.com/mhbashari/awesome-persian-nlp-ir#web-collected)
-    - [MISC](https://github.com/mhbashari/awesome-persian-nlp-ir#misc)
+    - [IR Systems Evaluation](https://github.com/mhbashari/awesome-persian-nlp-ir#ir-systems-evaluation)
+    - [MISC](#misc)
  
  - [Papers](https://github.com/mhbashari/awesome-persian-nlp-ir#papers)
     
@@ -82,7 +84,9 @@ This list is curation of the best, not of everything.Please participate in its d
    - [Universal Dependencies 1.3](http://mhbashari.ir/url/niversalependencies) - Multi lingual corpus that holds IOB gold data for dependency parsing
    - [HamleDT 3.0](http://mhbashari.ir/url/amle) - HArmonized Multi-LanguagE Dependency Treebank is a compilation of existing dependency treebanks (or dependency conversions of other treebanks), transformed so that they all conform to the same annotation style. This version uses Universal Dependencies as the common annotation style.
 
-   
+### Text Categorization and Classification
+   - [Hamshahri](http://mhbashari.ir/url/hamshahri) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
+   - 
 ### Spell Checking
    - [FAspell](http://mhbashari.ir/url/spell) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 
@@ -92,6 +96,9 @@ This list is curation of the best, not of everything.Please participate in its d
 ### Web Collected
    - [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus) - A set of corpora for 120 languages automatically collected from wikipedia and the web. 
 
+### IR Systems Evaluation
+   - [Hamshahri](http://mhbashari.ir/url/hamshahri) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
+   - 
 ### MISC
    - [perspred](http://mhbashari.ir/url/perspred) - Multiword verbs. 
    - [My stopword list](http://mhbashari.ir/url/fastopwords) - Curated List of persian stop words.
