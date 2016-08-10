@@ -39,7 +39,7 @@ This list is curation of the best, not of everything.Please participate in its d
   
 ### Tokenization & Segmentation
    - [HAZM](http://mhbashari.ir/url/hazm) - Python library for digesting Persian text.
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
    - [tok-tok](http://mhbashari.ir/url/tok-tok) - Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
    - [segmental](http://mhbashari.ir/url/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
    - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://mhbashari.ir/url/setper) - Regex based sentence segmenter
@@ -52,20 +52,20 @@ This list is curation of the best, not of everything.Please participate in its d
    - [Perstem](http://mhbashari.ir/url/perstem) - Rule based transliterator with single .pl file
    
 ### Named Entity Recognition
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
 
 ### Embeddings
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models. 
+   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
 
 ### Morphological Analysis
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models. 
+   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
 
 ### Stemmer
    - [Perstem](http://mhbashari.ir/url/perstem) - Rule based stemmer with single .pl file
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.Stemming by using the morphological analysing package.
+   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.Stemming by using the morphological analysing package.
 
 ### Sentiment Analysis
-   - [polyglot (polarity)](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose NLP Python library with pretrained models.
+   - [polyglot (polarity)](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
    - [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
 
    
