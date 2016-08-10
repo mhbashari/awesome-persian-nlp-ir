@@ -3,28 +3,28 @@
 This list is curation of the best, not of everything.Please participate in its development.Thanks to [ACL WEB](http://aclweb.org/aclwiki/index.php?title=Resources_for_Persian).
 ### Contents
  - Tools
-    - [Part-of-Speech Tagger](https://github.com/mhbashari/awesome-persian-nlp-ir#part-of-speech-tagger)
-    - [Language Detection](https://github.com/mhbashari/awesome-persian-nlp-ir#language-detection)
-    - [Tokenization & Segmentation](https://github.com/mhbashari/awesome-persian-nlp-ir#tokenization--segmentation)
-    - [Normalizer](https://github.com/mhbashari/awesome-persian-nlp-ir#normalizer)
-    - [Transliterator](https://github.com/mhbashari/awesome-persian-nlp-ir#transliterator)
-    - [Named Entity Recognition](https://github.com/mhbashari/awesome-persian-nlp-ir#named-entity-recognition)
-    - [Embeddings](https://github.com/mhbashari/awesome-persian-nlp-ir#embeddings)
-    - [Morphological Analysis](https://github.com/mhbashari/awesome-persian-nlp-ir#morphological-analysis)
-    - [Stemmer](https://github.com/mhbashari/awesome-persian-nlp-ir#stemmer)
-    - [Sentiment Analysis](https://github.com/mhbashari/awesome-persian-nlp-ir#sentiment-analysis)
+    - [Part-of-Speech Tagger](#part-of-speech-tagger)
+    - [Language Detection](#language-detection)
+    - [Tokenization & Segmentation](#tokenization--segmentation)
+    - [Normalizer](#normalizer)
+    - [Transliterator](#transliterator)
+    - [Named Entity Recognition](#named-entity-recognition)
+    - [Embeddings](#embeddings)
+    - [Morphological Analysis](#morphological-analysis)
+    - [Stemmer](#stemmer)
+    - [Sentiment Analysis](#sentiment-analysis)
     
  - Data
-    - [Part-of-Speech Tagger](https://github.com/mhbashari/awesome-persian-nlp-ir#part-of-speech-tagger-1)
-    - [Dependency Parsing](https://github.com/mhbashari/awesome-persian-nlp-ir#dependency-parsing)
-    - [Text Categorization and Classification](https://github.com/mhbashari/awesome-persian-nlp-ir#text-categorization-and-classification)
-    - [Spell Checking](https://github.com/mhbashari/awesome-persian-nlp-ir#spell-checking)
-    - [Machine Tanslation](https://github.com/mhbashari/awesome-persian-nlp-ir#machine-tanslation)
-    - [Web Collected](https://github.com/mhbashari/awesome-persian-nlp-ir#web-collected)
-    - [IR Systems Evaluation](https://github.com/mhbashari/awesome-persian-nlp-ir#ir-systems-evaluation)
+    - [Part-of-Speech Tagger](#part-of-speech-tagger-1)
+    - [Dependency Parsing](#dependency-parsing)
+    - [Text Categorization and Classification](#text-categorization-and-classification)
+    - [Spell Checking](#spell-checking)
+    - [Machine Tanslation](#machine-tanslation)
+    - [Web Collected](#web-collected)
+    - [IR Systems Evaluation](#ir-systems-evaluation)
     - [MISC](#misc)
  
- - [Papers](https://github.com/mhbashari/awesome-persian-nlp-ir#papers)
+ - [Papers](#papers)
     
  
 ## Tools
