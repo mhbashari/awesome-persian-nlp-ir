@@ -1,6 +1,7 @@
 # Awesome Persian NLP/IR, Tools And Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This list is curation of the best, not of everything. Please participate in its development.Thanks to [ACL WEB](http://aclweb.org/aclwiki/index.php?title=Resources_for_Persian).
+This is the list of some popular attempts.Please participate in its development. This list is curation of the best, not of everything.
+ Thanks to [ACL WEB](http://aclweb.org/aclwiki/index.php?title=Resources_for_Persian).
 ### Contents
  - Tools
     - [Part-of-Speech Tagger](https://github.com/mhbashari/awesome-persian-nlp-ir#part-of-speech-tagger)
@@ -93,8 +94,8 @@ This list is curation of the best, not of everything. Please participate in its 
    1. [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus) - A set of corpora for 120 languages automatically collected from wikipedia and the web. 
 
 ### MISC
-   1. Multiword verbs [perspred](http://mhbashari.ir/url/perspred)
-   2. [My stopword list](http://mhbashari.ir/url/fastopwords)
+   1. [perspred](http://mhbashari.ir/url/perspred) - Multiword verbs. 
+   2. [My stopword list](http://mhbashari.ir/url/fastopwords) - Curated List of persian stop words.
    
 ## Papers
    1. [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://mhbashari.ir/url/stemmerpaper01)
