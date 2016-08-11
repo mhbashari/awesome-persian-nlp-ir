@@ -34,7 +34,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
   - [Persian Language Model for HunPoS](http://stp.lingfil.uu.se/~mojgan/tagper.html) - HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
   - [Maryam Tavafi POS Tagger ](http://www.cs.ubc.ca/~tavafi/projects.html) - Persian Part of Speech Tagger
-  - [Perstem] (https://sourceforge.net/projects/perstem/) - Rule based POS tagger with single .pl file
+  - [Perstem] (https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
   - [Persianp Toolbox](http://www.persianp.ir/toolbox.html) - Multi-purpose persian NLP toolbox
 
 ### Language Detection
@@ -42,7 +42,7 @@ This list is curation of the best, not of everything. Please participate in its 
   
 ### Tokenization & Segmentation
    - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
-   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)).
    - [tok-tok](https://github.com/jonsafari/tok-tok) - Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
    - [segmental](https://github.com/jonsafari/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
    - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://stp.lingfil.uu.se/~mojgan/setper.html) - Regex based sentence segmenter
@@ -52,23 +52,23 @@ This list is curation of the best, not of everything. Please participate in its 
    - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text
    
 ### Transliterator
-   - [Perstem](https://sourceforge.net/projects/perstem/) - Rule based transliterator with single .pl file
+   - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
    
 ### Named Entity Recognition
-   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)).
 
 ### Embeddings
-   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)).
 
 ### Morphological Analysis
-   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)). 
 
 ### Stemmer
-   - [Perstem](https://sourceforge.net/projects/perstem/) - Rule based stemmer with single .pl file
-   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.Stemming by using the morphological analysing package.
+   - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)).
 
 ### Sentiment Analysis
-   - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
+   - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)).
    - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
 
    
@@ -107,7 +107,7 @@ This list is curation of the best, not of everything. Please participate in its 
    - [dotIR Collection](http://ece.ut.ac.ir/DBRG/webir/) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
 
 ### MISC
-   - [perspred](http://perspred.cnrs.fr/perspred-project) - Multiword verbs. 
+   - [perspred](http://perspred.cnrs.fr/perspred-project) - PersPred, is the first online multilingual syntactic and semantic database of Persian compound verbs (complex predicates), developed by the members of the research unit Mondes iranien et indien (CNRS, Sorbonne Nouvelle, Inalco, EPHE) within the ANR-DFG project PERGRAM (2008-2012) and the LR4.1 work package of the Strand 6 of the Labex Empirical Foundations of Linguistics (EFL).
    - [My stopword list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt) - Curated List of persian stop words.
 
 ## Papers
