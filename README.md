@@ -21,7 +21,7 @@ This list is curation of the best, not of everything.Please participate in its d
     - [Spell Checking](#spell-checking)
     - [Machine Tanslation](#machine-tanslation)
     - [Web Collected](#web-collected)
-    - [IR Systems Evaluation](#ir-systems-evaluation)
+    - [IR Ranking Evaluation](#ir-ranking-evaluation)
     - [MISC](#misc)
  
  - [Papers](#papers)
@@ -95,14 +95,18 @@ This list is curation of the best, not of everything.Please participate in its d
 
 ### Web Collected
    - [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus) - A set of corpora for 120 languages automatically collected from wikipedia and the web. 
+   - [dotIR Collection](http://mhbashari.ir/url/webir) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
 
-### IR Systems Evaluation
+### IR Ranking Evaluation
    - [Hamshahri](http://mhbashari.ir/url/hamshahri) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
+
+### IR Crawling And Linking Evaluation
+   - [dotIR Collection](http://mhbashari.ir/url/webir) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
 
 ### MISC
    - [perspred](http://mhbashari.ir/url/perspred) - Multiword verbs. 
    - [My stopword list](http://mhbashari.ir/url/fastopwords) - Curated List of persian stop words.
-   
+
 ## Papers
    - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://mhbashari.ir/url/stemmerpaper01)
 
