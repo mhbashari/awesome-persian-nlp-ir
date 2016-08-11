@@ -22,6 +22,7 @@ This list is curation of the best, not of everything.Please participate in its d
     - [Machine Tanslation](#machine-tanslation)
     - [Web Collected](#web-collected)
     - [IR Ranking Evaluation](#ir-ranking-evaluation)
+    - [IR Crawling And Linking Evaluation](#ir-crawling-and-linking-evaluation)
     - [MISC](#misc)
  
  - [Papers](#papers)
