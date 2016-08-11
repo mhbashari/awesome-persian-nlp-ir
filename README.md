@@ -49,7 +49,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ### Normalizer
    - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
-   - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text
+   - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text.
    
 ### Transliterator
    - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
