@@ -35,7 +35,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [Persian Language Model for HunPoS](http://stp.lingfil.uu.se/~mojgan/tagper.html) - HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
   - [Maryam Tavafi POS Tagger ](http://www.cs.ubc.ca/~tavafi/projects.html) - Persian Part of Speech Tagger.
   - [Perstem] (https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
-  - [Persianp Toolbox](http://www.persianp.ir/toolbox.html) - Multi-purpose persian NLP toolbox
+  - [Persianp Toolbox](http://www.persianp.ir/toolbox.html) - Multi-purpose persian NLP toolbox.
 
 ### Language Detection
   - [Google language detect (python port)](https://github.com/Mimino666/langdetect) - Light Weight language detector, its performance for persian is excellent.
@@ -45,7 +45,7 @@ This list is curation of the best, not of everything. Please participate in its 
    - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)).
    - [tok-tok](https://github.com/jonsafari/tok-tok) - Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
    - [segmental](https://github.com/jonsafari/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
-   - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://stp.lingfil.uu.se/~mojgan/setper.html) - Regex based sentence segmenter
+   - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://stp.lingfil.uu.se/~mojgan/setper.html) - Regex based sentence segmenter.
 
 ### Normalizer
    - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
@@ -69,7 +69,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ### Sentiment Analysis
    - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages),Language detection (196 Languages), Named Entity Recognition (40 Languages),Part of Speech Tagging (16 Languages),Sentiment Analysis (136 Languages),Word Embeddings (137 Languages),Morphological analysis (135 Languages),Transliteration (69 Languages)).
-   - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
+   - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis.
 
    
 ## Data
@@ -94,7 +94,7 @@ This list is curation of the best, not of everything. Please participate in its 
    - [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 
 ### Machine Tanslation
-   - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus
+   - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus.
 
 ### Web Collected
    - [W2C – Web to Corpus – Corpora](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-6133-9) - A set of corpora for 120 languages automatically collected from wikipedia and the web. 
