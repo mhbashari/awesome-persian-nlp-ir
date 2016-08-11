@@ -30,86 +30,86 @@ This list is curation of the best, not of everything. Please participate in its 
  
 ## Tools
 ### Part-of-Speech Tagger
-  - [farsiNLPTools](http://mhbashari.ir/url/farsiools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
-  - [HAZM](http://mhbashari.ir/url/hazm) - Python library for digesting Persian text.
-  - [Persian Language Model for HunPoS](http://mhbashari.ir/url/unoager) - HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
-  - [Maryam Tavafi POS Tagger ](http://mhbashari.ir/url/aryamavafi) - Persian Part of Speech Tagger
-  - [Perstem] (http://mhbashari.ir/url/perstem) - Rule based POS tagger with single .pl file
-  - [Persianp Toolbox](http://mhbashari.ir/url/ersianpoolbox) - Multi-purpose persian NLP toolbox
+  - [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
+  - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
+  - [Persian Language Model for HunPoS](http://stp.lingfil.uu.se/~mojgan/tagper.html) - HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
+  - [Maryam Tavafi POS Tagger ](http://www.cs.ubc.ca/~tavafi/projects.html) - Persian Part of Speech Tagger
+  - [Perstem] (https://sourceforge.net/projects/perstem/) - Rule based POS tagger with single .pl file
+  - [Persianp Toolbox](http://www.persianp.ir/toolbox.html) - Multi-purpose persian NLP toolbox
 
 ### Language Detection
-  - [Google language detect (python port)](http://mhbashari.ir/url/langdetect) - Light Weight language detector, its performance for persian is excellent.
+  - [Google language detect (python port)](https://github.com/Mimino666/langdetect) - Light Weight language detector, its performance for persian is excellent.
   
 ### Tokenization & Segmentation
-   - [HAZM](http://mhbashari.ir/url/hazm) - Python library for digesting Persian text.
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
-   - [tok-tok](http://mhbashari.ir/url/tok-tok) - Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
-   - [segmental](http://mhbashari.ir/url/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
-   - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://mhbashari.ir/url/setper) - Regex based sentence segmenter
+   - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
+   - [tok-tok](https://github.com/jonsafari/tok-tok) - Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
+   - [segmental](https://github.com/jonsafari/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
+   - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://stp.lingfil.uu.se/~mojgan/setper.html) - Regex based sentence segmenter
 
 ### Normalizer
-   - [HAZM](http://mhbashari.ir/url/hazm) - Python library for digesting Persian text.
-   - [Persian Pre-processor: PrePer](http://mhbashari.ir/url/preper) - Another signle .pl tools that normals your persian text
+   - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
+   - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text
    
 ### Transliterator
-   - [Perstem](http://mhbashari.ir/url/perstem) - Rule based transliterator with single .pl file
+   - [Perstem](https://sourceforge.net/projects/perstem/) - Rule based transliterator with single .pl file
    
 ### Named Entity Recognition
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
 
 ### Embeddings
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
 
 ### Morphological Analysis
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models. 
 
 ### Stemmer
-   - [Perstem](http://mhbashari.ir/url/perstem) - Rule based stemmer with single .pl file
-   - [polyglot](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.Stemming by using the morphological analysing package.
+   - [Perstem](https://sourceforge.net/projects/perstem/) - Rule based stemmer with single .pl file
+   - [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.Stemming by using the morphological analysing package.
 
 ### Sentiment Analysis
-   - [polyglot (polarity)](http://mhbashari.ir/url/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
-   - [NRC-Persian-Lexicon](http://mhbashari.ir/url/nrcperlex) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
+   - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) - Multi-lingual and Multi-purpose Python NLP library with pretrained models.
+   - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
 
    
 ## Data
 ### Part-of-Speech Tagger
-   - [Bijankhan Corpus](http://mhbashari.ir/url/bijankhan) - One of the The most famous persian corpora
-   - [Mojgan Seraji Corpus](http://mhbashari.ir/url/ppsalaersianorpus) - is a modified version of the Bijankhan corpus
+   - [Bijankhan Corpus](http://ece.ut.ac.ir/dbrg/bijankhan/) - One of the The most famous persian corpora
+   - [Mojgan Seraji Corpus](http://stp.lingfil.uu.se/~mojgan/UPC.html) - Is a modified version of the Bijankhan corpus
    
 
 ### Dependency Parsing
-   - [Persian Syntactic Dependency Treebank](http://mhbashari.ir/url/perdt) - This treebank is supplied for free noncommercial use. For commercial uses feel free to contact us. The number of annotated sentences is 29,982 sentences including samples from almost all verbs of the Persian valency lexicon.   
-   - [Uppsala Persian Dependency Treebank: UPDT](http://mhbashari.ir/url/updt) - Dependency-based syntactically annotated corpus.
-     - [Pretrained model](http://mhbashari.ir/url/parsper-mate)
-   - [Universal Dependencies 1.3](http://mhbashari.ir/url/niversalependencies) - Multi lingual corpus that holds IOB gold data for dependency parsing
-   - [HamleDT 3.0](http://mhbashari.ir/url/amle) - HArmonized Multi-LanguagE Dependency Treebank is a compilation of existing dependency treebanks (or dependency conversions of other treebanks), transformed so that they all conform to the same annotation style. This version uses Universal Dependencies as the common annotation style.
+   - [Persian Syntactic Dependency Treebank](http://dadegan.ir/catalog/perdt) - This treebank is supplied for free noncommercial use. For commercial uses feel free to contact us. The number of annotated sentences is 29,982 sentences including samples from almost all verbs of the Persian valency lexicon.   
+   - [Uppsala Persian Dependency Treebank: UPDT](http://stp.lingfil.uu.se/~mojgan/UPDT.html) - Dependency-based syntactically annotated corpus.
+     - [Pretrained model](http://stp.lingfil.uu.se/~mojgan/parsper-mate.html)
+   - [Universal Dependencies 1.3](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1699) - Multi lingual corpus that holds IOB gold data for dependency parsing
+   - [HamleDT 3.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1508) - HArmonized Multi-LanguagE Dependency Treebank is a compilation of existing dependency treebanks (or dependency conversions of other treebanks), transformed so that they all conform to the same annotation style. This version uses Universal Dependencies as the common annotation style.
 
 ### Text Categorization and Classification
-   - [Hamshahri](http://mhbashari.ir/url/hamshahri) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
+   - [Hamshahri](http://ece.ut.ac.ir/dbrg/hamshahri/) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
 
 ### Spell Checking
-   - [FAspell](http://mhbashari.ir/url/spell) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
+   - [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 
 ### Machine Tanslation
-   - [TEP: Tehran English-Persian Parallel Corpus](http://mhbashari.ir/url/ehranabesources) - First free English-Persian corpus
+   - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus
 
 ### Web Collected
-   - [W2C – Web to Corpus – Corpora](http://mhbashari.ir/url/2ebtoorpus) - A set of corpora for 120 languages automatically collected from wikipedia and the web. 
-   - [dotIR Collection](http://mhbashari.ir/url/webir) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
+   - [W2C – Web to Corpus – Corpora](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-6133-9) - A set of corpora for 120 languages automatically collected from wikipedia and the web. 
+   - [dotIR Collection](http://ece.ut.ac.ir/DBRG/webir/) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
 
 ### IR Ranking Evaluation
-   - [Hamshahri](http://mhbashari.ir/url/hamshahri) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
+   - [Hamshahri](http://ece.ut.ac.ir/dbrg/hamshahri/) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
 
 ### IR Crawling And Linking Evaluation
-   - [dotIR Collection](http://mhbashari.ir/url/webir) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
+   - [dotIR Collection](http://ece.ut.ac.ir/DBRG/webir/) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
 
 ### MISC
-   - [perspred](http://mhbashari.ir/url/perspred) - Multiword verbs. 
-   - [My stopword list](http://mhbashari.ir/url/fastopwords) - Curated List of persian stop words.
+   - [perspred](http://perspred.cnrs.fr/perspred-project) - Multiword verbs. 
+   - [My stopword list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt) - Curated List of persian stop words.
 
 ## Papers
-   - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://mhbashari.ir/url/stemmerpaper01)
+   - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://jips.jatsxml.org/upload/pdf/jips-11-3-450.pdf)
 
 # Contribute
 
