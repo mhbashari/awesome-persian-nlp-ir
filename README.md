@@ -6,7 +6,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Part-of-Speech Tagger](#part-of-speech-tagger)
     - [Language Detection](#language-detection)
     - [Tokenization & Segmentation](#tokenization--segmentation)
-    - [Normalizer And Text Cleaning](#normalizer-and-text-cleaning)
+    - [Normalizer And Text Cleaner](#normalizer-and-text-cleaning)
     - [Transliterator](#transliterator)
     - [Named Entity Recognition](#named-entity-recognition)
     - [Embeddings](#embeddings)
