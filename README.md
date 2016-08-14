@@ -35,6 +35,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [Maryam Tavafi POS Tagger ](http://www.cs.ubc.ca/~tavafi/projects.html) - This software includes implementation of a Persian part of speech tagger based on Structured Support Vector Machines.
   - [Perstem] (https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
   - [Persianp Toolbox](http://www.persianp.ir/toolbox.html) - Multi-purpose persian NLP toolbox.
+  - [UM-wtlab pos tagger](http://wtlab.um.ac.ir/index.php?option=com_content&view=article&id=326&Itemid=224&lang=en) - This software is a C# implementation of the Viberbi and Brill part-of-speech taggers.
 
 ### Language Detection
   - [Google language detect (python port)](https://github.com/Mimino666/langdetect) - Light Weight language detector, its performance for persian is excellent.
