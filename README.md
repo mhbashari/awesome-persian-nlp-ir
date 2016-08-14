@@ -49,7 +49,7 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Normalizer And Text Cleaning
    - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
    - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text.
-   - [virastar][https://github.com/aziz/virastar] - Cleanning up Persian text!.Replace double dash to ndash and triple dash to mdash, Replace English numbers with their Persian equivalent, correct :;,.?! spacing (one space after and no space before), Replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby.
+   - [virastar](https://github.com/aziz/virastar) - Cleanning up Persian text!.Replace double dash to ndash and triple dash to mdash, Replace English numbers with their Persian equivalent, correct :;,.?! spacing (one space after and no space before), Replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby.
    
 ### Transliterator
    - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
