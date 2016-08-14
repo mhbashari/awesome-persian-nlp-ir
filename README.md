@@ -6,7 +6,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Part-of-Speech Tagger](#part-of-speech-tagger)
     - [Language Detection](#language-detection)
     - [Tokenization & Segmentation](#tokenization--segmentation)
-    - [Normalizer And Text Cleaner](#normalizer-and-text-cleaning)
+    - [Normalizer And Text Cleaner](#normalizer-and-text-cleaner)
     - [Transliterator](#transliterator)
     - [Named Entity Recognition](#named-entity-recognition)
     - [Embeddings](#embeddings)
@@ -46,7 +46,7 @@ This list is curation of the best, not of everything. Please participate in its 
    - [segmental](https://github.com/jonsafari/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
    - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://stp.lingfil.uu.se/~mojgan/setper.html) - Regex based sentence segmenter.
 
-### Normalizer And Text Cleaning
+### Normalizer And Text Cleaner
    - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
    - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text.
    - [virastar](https://github.com/aziz/virastar) - Cleanning up Persian text!.Replace double dash to ndash and triple dash to mdash, Replace English numbers with their Persian equivalent, correct :;,.?! spacing (one space after and no space before), Replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby.
