@@ -115,10 +115,10 @@ This list is curation of the best, not of everything. Please participate in its 
 ## Papers
    - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://jips.jatsxml.org/upload/pdf/jips-11-3-450.pdf)
 
-# Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-# License
+## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
