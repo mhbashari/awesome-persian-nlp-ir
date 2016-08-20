@@ -114,6 +114,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ## Papers
    - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://jips.jatsxml.org/upload/pdf/jips-11-3-450.pdf)
+   - [On the Importance of Ezafe Construction in Persian Parsing](https://www.aclweb.org/anthology/P/P15/P15-2144.pdf)
 
 ## Contribute
 
