@@ -105,7 +105,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ### MISC
   - [PersPred](http://perspred.cnrs.fr/perspred-project) - PersPred, is the first online multilingual syntactic and semantic database of Persian compound verbs (complex predicates), developed by the members of the research unit Mondes iranien et indien (CNRS, Sorbonne Nouvelle, Inalco, EPHE) within the ANR-DFG project PERGRAM (2008-2012) and the LR4.1 work package of the Strand 6 of the Labex Empirical Foundations of Linguistics (EFL).
-  - [My stopword list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt) - Experimental list of stopwords that is suitable for topic modelling and word embedding.
+  - [mhbashari stopword list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt) - Experimental list of stopwords that is suitable for topic modelling and word embedding.
   - [Hazm stop words](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat) - Stop words list, good for IR.
 
 ## Papers
