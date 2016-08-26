@@ -41,7 +41,7 @@ This list is curation of the best, not of everything. Please participate in its 
  
 ### Tokenization & Segmentation
   - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
-  - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages), Language detection (196 Languages), Named Entity Recognition (40 Languages), Part of Speech Tagging (16 Languages), Sentiment Analysis (136 Languages), Word Embeddings (137 Languages), Morphological analysis (135 Languages), Transliteration (69 Languages)).
+  - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
   - [tok-tok](https://github.com/jonsafari/tok-tok) - Tok-tok is a fast, simple, multilingual tokenizer(single .pl file).
   - [segmental](https://github.com/jonsafari/segmental) - You can train your model based on plain-text corpus for text segmentation by powerful deep learning platform.
   - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://stp.lingfil.uu.se/~mojgan/setper.html) - Regex based sentence segmenter.
@@ -49,26 +49,26 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Normalizer And Text Cleaner
   - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
   - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text.
-  - [virastar](https://github.com/aziz/virastar) - Cleanning up Persian text!.Replace double dash to ndash and triple dash to mdash, Replace English numbers with their Persian equivalent, correct :;, .?! spacing (one space after and no space before), Replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby.
+  - [virastar](https://github.com/aziz/virastar) - Cleanning up Persian text!.Replace double dash to ndash and triple dash to mdash, Replace English numbers with their Persian equivalent, correct :;,.?! spacing (one space after and no space before), Replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby.
   
 ### Transliterator
   - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
   
 ### Named Entity Recognition
-  - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages), Language detection (196 Languages), Named Entity Recognition (40 Languages), Part of Speech Tagging (16 Languages), Sentiment Analysis (136 Languages), Word Embeddings (137 Languages), Morphological analysis (135 Languages), Transliteration (69 Languages)).
+  - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
 
 ### Embeddings
-  - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages), Language detection (196 Languages), Named Entity Recognition (40 Languages), Part of Speech Tagging (16 Languages), Sentiment Analysis (136 Languages), Word Embeddings (137 Languages), Morphological analysis (135 Languages), Transliteration (69 Languages)).
+  - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
 
 ### Morphological Analysis
-  - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages), Language detection (196 Languages), Named Entity Recognition (40 Languages), Part of Speech Tagging (16 Languages), Sentiment Analysis (136 Languages), Word Embeddings (137 Languages), Morphological analysis (135 Languages), Transliteration (69 Languages)). 
+  - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)). 
 
 ### Stemmer
   - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
-  - [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages), Language detection (196 Languages), Named Entity Recognition (40 Languages), Part of Speech Tagging (16 Languages), Sentiment Analysis (136 Languages), Word Embeddings (137 Languages), Morphological analysis (135 Languages), Transliteration (69 Languages)).
+  - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
 
 ### Sentiment Analysis
-  - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) - Natural language pipeline that supports massive multilingual applications (Like Tokenization (165 Languages), Language detection (196 Languages), Named Entity Recognition (40 Languages), Part of Speech Tagging (16 Languages), Sentiment Analysis (136 Languages), Word Embeddings (137 Languages), Morphological analysis (135 Languages), Transliteration (69 Languages)).
+  - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
   - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis.
 
   
