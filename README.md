@@ -92,9 +92,8 @@ This list is curation of the best, not of everything. Please participate in its 
   - [Bijankhan Corpus](http://ece.ut.ac.ir/dbrg/bijankhan/) - Bijankhan corpus is a tagged corpus that is suitable for natural language processing research on the Persian (Farsi) language. This collection is gathered form daily news and common texts. In this collection all documents are categorized into different subjects such as political, cultural and so on. Totally, there are 4300 different subjects. The Bijankhan collection contains about 2.6 millions manually tagged words with a tag set that contains 40 Persian POS tags. 
 
 ### Spell Checking
-  - [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
-  
- - [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - We're collecting persian words' dictionary (verbs, nouns, and etc.) for Persian spell checker.
+- [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
+- [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - We're collecting persian words' dictionary (verbs, nouns, and etc.) for Persian spell checker.
 
 
 ### Machine Tanslation
