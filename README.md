@@ -33,7 +33,7 @@ This list is curation of the best, not of everything. Please participate in its 
  - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
  - [Persian Language Model for HunPoS](http://stp.lingfil.uu.se/~mojgan/tagper.html) - HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
  - [Maryam Tavafi POS Tagger ](http://www.cs.ubc.ca/~tavafi/projects.html) - This software includes implementation of a Persian part of speech tagger based on Structured Support Vector Machines.
- - [Perstem] (https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
+ - [Perstem] (https://github.com/jonsafari/perstem) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
  - [Persianp Toolbox](http://www.persianp.ir/toolbox.html) - Multi-purpose persian NLP toolbox.
  - [UM-wtlab pos tagger](http://wtlab.um.ac.ir/index.php?option=com_content&view=article&id=326&Itemid=224&lang=en) - This software is a C# implementation of the Viberbi and Brill part-of-speech taggers.
 
@@ -54,7 +54,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [Virastyar](http://www.virastyar.ir/development) - A collection of C# libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
   
 ### Transliterator
-  - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
+  - [Perstem](https://github.com/jonsafari/perstem) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
   
 ### Named Entity Recognition
 ### Embeddings
@@ -65,7 +65,7 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Stemmer
   - [PersianStemmer](https://github.com/MrHTZ/PersianStemmer-Java/) - ([Java](https://github.com/MrHTZ/PersianStemmer-Java/), [Delphi](https://github.com/MrHTZ/PersianStemmer/) ) - PersianStemmer is a longest-match stemming algorithm that is based on pattern matching. It uses a knowledge base which consist of a collection of rules named "patterns". Furthermore, the exceptions and problems in the Persian morphology have been studied, and a solution is presented for each of them. So our stemmer evaluated. Its result was much better than the previous stemmers.[C#](https://github.com/MrHTZ/PersianStemmer-CSharp/) and [Python](https://github.com/MrHTZ/PersianStemmer-Python/) version is under developement.
   
-  - [Perstem](https://sourceforge.net/projects/perstem/) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
+  - [Perstem](https://github.com/jonsafari/perstem) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
   - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
 
 ### Sentiment Analysis
