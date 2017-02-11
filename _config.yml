@@ -1,0 +1,8 @@
+title: Awesome Persian NLP AND IR
+description: Curated List of Persian Natural Language Processing and Information Retrieval Tools and Resources
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
