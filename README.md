@@ -94,6 +94,7 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Spell Checking
 - [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 - [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - We're collecting persian words' dictionary (verbs, nouns, and etc.) for Persian spell checker.
+- [async_faspell](https://github.com/eteamin/async_faspell) -Persian spellchecker. An algorithm that suggests words for misspelled words.
 
 
 ### Machine Tanslation
