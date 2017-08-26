@@ -13,6 +13,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Morphological Analysis](#morphological-analysis)
     - [Stemmer](#stemmer)
     - [Spell Checking](#spell-checking)
+    - [Information Extraction](#spell-checking)
     
  
  - Data
@@ -78,7 +79,10 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ### Spell Checking
   - [async_faspell](https://github.com/eteamin/async_faspell) -Persian spellchecker. An algorithm that suggests words for misspelled words.
-    
+
+### Information Extraction
+  - [baaz](https://github.com/sobhe/information-extraction) - Open information extraction from Persian web.
+  
 ## Data
 ### Part-of-Speech Tagger
   - [Bijankhan Corpus](http://ece.ut.ac.ir/dbrg/bijankhan/) - Bijankhan corpus is a tagged corpus that is suitable for natural language processing research on the Persian (Farsi) language. This collection is gathered form daily news and common texts. In this collection all documents are categorized into different subjects such as political, cultural and so on. Totally, there are 4300 different subjects. The Bijankhan collection contains about 2.6 millions manually tagged words with a tag set that contains 40 Persian POS tags. 
