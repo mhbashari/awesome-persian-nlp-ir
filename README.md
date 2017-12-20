@@ -56,7 +56,7 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Normalizer And Text Cleaner
   - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
   - [Persian Pre-processor: PrePer](http://stp.lingfil.uu.se/~mojgan/preper.html) - Another signle .pl tools that normals your persian text.
-  - [virastar](https://github.com/aziz/virastar) - Cleanning up Persian text!.replace double dash to ndash and triple dash to mdash, replace English numbers with their Persian equivalent, correct :;,.?! spacing (one space after and no space before), replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby.
+  - [virastar](https://github.com/aziz/virastar) - Cleanning up Persian text!.replace double dash to ndash and triple dash to mdash, replace English numbers with their Persian equivalent, correct :;,.?! spacing (one space after and no space before), replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby and has [python port](https://github.com/JKhakpour/virastar.py).
   - [Virastyar](http://www.virastyar.ir/development) - A collection of C# libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
 
 ### Transliterator
