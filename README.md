@@ -137,6 +137,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [PersianStemmingDataset](https://github.com/MrHTZ/PersianStemmingDataset) - PersianStemmingDataset is consist of two manually stemmed persian corpora and an evalution tools in order to compute stemming evaluatin metrics.
   - [PersPred](http://perspred.cnrs.fr/perspred-project) - PersPred, is the first online multilingual syntactic and semantic database of Persian compound verbs (complex predicates), developed by the members of the research unit Mondes iranien et indien (CNRS, Sorbonne Nouvelle, Inalco, EPHE) within the ANR-DFG project PERGRAM (2008-2012) and the LR4.1 work package of the Strand 6 of the Labex Empirical Foundations of Linguistics (EFL).
   - [ACL-Wiki Resources for Persian](http://www.aclweb.org/aclwiki/index.php?title=Resources_for_Persian) - Another list of resources for Persian computing.
+  - [petit](https://github.com/JKhakpour/petit) - Convert alphabet-written numbers to digit-forn
 
 
 
