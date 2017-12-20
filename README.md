@@ -18,6 +18,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
  - Data
     - [Part-of-Speech Tagger](#part-of-speech-tagger-1)
+    - [Named Entity Recognition](#named-entity-recognition)
     - [Dependency Parsing](#dependency-parsing)
     - [Text Categorization and Classification](#text-categorization-and-classification)
     - [Spell Checking](#spell-checking-1)
@@ -90,7 +91,9 @@ This list is curation of the best, not of everything. Please participate in its 
 
   - [Mojgan Seraji Corpus](http://stp.lingfil.uu.se/~mojgan/UPC.html) - Uppsala Persian Corpus (UPC) is a large, freely available Persian corpus. The corpus is a modified version of the Bijankhan corpus with additional sentence segmentation and consistent tokenization containing 2,704,028 tokens and annotated with 31 part-of-speech tags. The part-of-speech tags are listed with explanations in [this table](http://stp.lingfil.uu.se/~mojgan/Table_tag.pdf).
 
-
+### Named Entity Recognition
+  - [ArmanPersoNERCorpus](https://github.com/HaniehP/PersianNER) - The dataset includes 250,015 tokens and 7,682 Persian sentences in total. It is available in 3 folds to be used in turn as training and test sets. Each file contains one token, along with its manually annotated named-entity tag, per line. Each sentence is separated with a newline. The NER tags are in IOB format.
+  
 ### Dependency Parsing
   - [Persian Syntactic Dependency Treebank](http://dadegan.ir/catalog/perdt) - This treebank is supplied for free noncommercial use. For commercial uses feel free to contact us. The number of annotated sentences is 29,982 sentences including samples from almost all verbs of the Persian valency lexicon.
   - [Uppsala Persian Dependency Treebank: UPDT](http://stp.lingfil.uu.se/~mojgan/UPDT.html) - Dependency-based syntactically annotated corpus.
