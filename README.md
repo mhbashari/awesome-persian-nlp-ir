@@ -146,6 +146,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [On the Importance of Ezafe Construction in Persian Parsing](https://www.aclweb.org/anthology/P/P15/P15-2144.pdf)
 
   - [A New Hybrid Stemming Method for Persian Language](http://dsh.oxfordjournals.org/content/early/2015/11/06/llc.fqv053) [(link2)](http://dx.doi.org.sci-hub.cc/10.1093/llc/fqv053)
+  - [Sentiment analysis using deep learning on Persian texts](http://ieeexplore.ieee.org/document/7985281/) [(PDF Link)](http://bayanbox.ir/info/1313132063660147282/roshanfekr2017)
 
 ## Contribute
 
