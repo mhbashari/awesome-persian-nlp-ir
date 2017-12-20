@@ -18,7 +18,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
  - Data
     - [Part-of-Speech Tagger](#part-of-speech-tagger-1)
-    - [Named Entity Recognition](#named-entity-recognition)
+    - [Named Entity Recognition](#named-entity-recognition-1)
     - [Dependency Parsing](#dependency-parsing)
     - [Text Categorization and Classification](#text-categorization-and-classification)
     - [Spell Checking](#spell-checking-1)
