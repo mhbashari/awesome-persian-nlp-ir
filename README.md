@@ -84,6 +84,8 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ### Information Extraction
   - [baaz](https://github.com/sobhe/information-extraction) - Open information extraction from Persian web.
+  - [Aparat Downloader](https://github.com/NabiKAZ/filimo-downloader) - Download movies from filimo.com
+  - [Namava Downloader](https://github.com/NabiKAZ/namava-downloader) - Download movies from namava.ir
 
 ## Data
 ### Part-of-Speech Tagger
