@@ -38,7 +38,7 @@ This list is curation of the best, not of everything. Please participate in its 
  - [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
  - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
  - [Persian Language Model for HunPoS](http://stp.lingfil.uu.se/~mojgan/tagper.html) - HunPoS (Halacsy et al, 2007) is an open source reimplementation of the statistical part-of-speech tagger Trigrams'n Tags, also called TnT (Brants, 2000) allowing the user to tune the tagger by using different feature settings.
- - [Maryam Tavafi POS Tagger ](http://www.cs.ubc.ca/~tavafi/projects.html) - This software includes implementation of a Persian part of speech tagger based on Structured Support Vector Machines.
+ - [Maryam Tavafi POS Tagger ](https://sites.google.com/site/maryamtavafi/persian-pos-tagger) - This software includes implementation of a Persian part of speech tagger based on Structured Support Vector Machines.
  - [Perstem](https://github.com/jonsafari/perstem) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
  - [Persianp Toolbox](http://www.persianp.ir/toolbox.html) - Multi-purpose persian NLP toolbox.
  - [UM-wtlab pos tagger](http://wtlab.um.ac.ir/index.php?option=com_content&view=article&id=326&Itemid=224&lang=en) - This software is a C# implementation of the Viberbi and Brill part-of-speech taggers.
