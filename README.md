@@ -16,6 +16,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Information Extraction](#spell-checking)
     - [Dependency Parser](#dependency-parser)
     - [Shallow Parser (Chunker)](#shallow-parser)
+    - [Text To Speech](#text-to-speech)    
 
 
  - Data
@@ -98,7 +99,8 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Information Extraction
   - [baaz](https://github.com/sobhe/information-extraction) - Open information extraction from Persian web.
 
-
+### Text To Speech
+  - [AlisterTA TTS](https://github.com/AlisterTA/Persian-text-to-speech) - A convolutional sequence to sequence model for Persian text to speech based on Tachibana et al with a few modifications.
 
 ## Data
 ### Part-of-Speech Tagger
