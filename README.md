@@ -17,6 +17,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Dependency Parser](#dependency-parser)
     - [Shallow Parser (Chunker)](#shallow-parser)
     - [Text To Speech](#text-to-speech)    
+    - [Summerizer](#summerizer)    
 
 
  - Data
@@ -102,6 +103,9 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Text To Speech
   - [AlisterTA TTS](https://github.com/AlisterTA/Persian-text-to-speech) - A convolutional sequence to sequence model for Persian text to speech based on Tachibana et al with a few modifications.
 
+### Summerizer
+  - [Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and semantical text summarizer in Persian language
+  
 ## Data
 ### Part-of-Speech Tagger
   - [Bijankhan Corpus](http://dbrg.ut.ac.ir/bijankhan/) - Bijankhan corpus is a tagged corpus that is suitable for natural language processing research on the Persian (Farsi) language. This collection is gathered form daily news and common texts. In this collection all documents are categorized into different subjects such as political, cultural and so on. Totally, there are 4300 different subjects. The Bijankhan collection contains about 2.6 millions manually tagged words with a tag set that contains 40 Persian POS tags.
