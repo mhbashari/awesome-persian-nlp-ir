@@ -130,6 +130,9 @@ This list is curation of the best, not of everything. Please participate in its 
 - [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 - [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - We're collecting persian words' dictionary (verbs, nouns, and etc.) for Persian spell checker.
 
+### Farsi Poems
+- [Farsi Poem Corpus](https://github.com/amnghd/Persian_poems_corpus) - This corpus consists of text documents for 48 Persian poets. The corpus comes in three formats; original, normalized (only 32 main Farsi alphabet), and stop words removed. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
+
 
 ### Machine Tanslation
 #### Parallel Corpus
@@ -171,6 +174,9 @@ This list is curation of the best, not of everything. Please participate in its 
 
   - [A New Hybrid Stemming Method for Persian Language](http://dsh.oxfordjournals.org/content/early/2015/11/06/llc.fqv053) [(link2)](http://dx.doi.org.sci-hub.cc/10.1093/llc/fqv053)
   - [Sentiment analysis using deep learning on Persian texts](http://ieeexplore.ieee.org/document/7985281/) [(PDF Link)](http://bayanbox.ir/info/1313132063660147282/roshanfekr2017)
+  
+  ## word2vec models
+  -[Farsi Poem word2vec model](https://github.com/amnghd/Word2vec-on-Farsi-Literature) - This is a word2vec model deveoped based on a corpus of 48 Persian poets. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
 
 ## Contribute
 
