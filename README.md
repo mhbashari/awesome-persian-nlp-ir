@@ -31,6 +31,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [IR Ranking Evaluation](#ir-ranking-evaluation)
     - [IR Crawling And Linking Evaluation](#ir-crawling-and-linking-evaluation)
     - [Stop Word Lists](#stop-word-lists)
+    - [Pretrained Models](#pretrained-models)    
     - [MISC](#misc)
 
  - [Papers](#papers)
@@ -155,10 +156,14 @@ This list is curation of the best, not of everything. Please participate in its 
 ### IR Crawling And Linking Evaluation
   - [dotIR Collection](http://ece.ut.ac.ir/DBRG/webir/) - dotIR is a standard Persian test collection that is suitable for evaluation of web information retrieval algorithms in Iranian web.dotIR Contains many Persian web pages including their text, links, metadata, etc that are stored in XML format. It is prepared in such a way to be a good representative of Iranian web.It is A good test bed for evaluation of link based information retrieval algorithms. It includes enough Queries and relevance judgments for a valid evaluation.It is not very large, so that it does not require high processing resources.
 
+### Pretrained Models
+  - [Farsi Poem word2vec model](https://github.com/amnghd/Word2vec-on-Farsi-Literature) - This is a word2vec model deveoped based on a corpus of 48 Persian poets. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
+  
 ### Stop Word Lists
   - [Persian stopwords collection](https://github.com/ziaa/Persian-stopwords-collection) - A collection of Persian stop words list
   - [Hazm stop words](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat) - Stop words list, good for IR.
   - [mhbashari stopword list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt) - Experimental list of stopwords that is suitable for topic modelling and word embedding.
+
 
 ### MISC
   - [PersianStemmingDataset](https://github.com/MrHTZ/PersianStemmingDataset) - PersianStemmingDataset is consist of two manually stemmed persian corpora and an evalution tools in order to compute stemming evaluatin metrics.
@@ -167,16 +172,12 @@ This list is curation of the best, not of everything. Please participate in its 
   - [petit](https://github.com/JKhakpour/petit) - Convert alphabet-written numbers to digit-form
 
 
-
 ## Papers
   - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://jips.jatsxml.org/upload/pdf/jips-11-3-450.pdf)
   - [On the Importance of Ezafe Construction in Persian Parsing](https://www.aclweb.org/anthology/P/P15/P15-2144.pdf)
 
   - [A New Hybrid Stemming Method for Persian Language](http://dsh.oxfordjournals.org/content/early/2015/11/06/llc.fqv053) [(link2)](http://dx.doi.org.sci-hub.cc/10.1093/llc/fqv053)
-  - [Sentiment analysis using deep learning on Persian texts](http://ieeexplore.ieee.org/document/7985281/) [(PDF Link)](http://bayanbox.ir/info/1313132063660147282/roshanfekr2017)
-  
-  ## word2vec models
-  -[Farsi Poem word2vec model](https://github.com/amnghd/Word2vec-on-Farsi-Literature) - This is a word2vec model deveoped based on a corpus of 48 Persian poets. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
+  - [Sentiment analysis using deep learning on Persian texts](http://ieeexplore.ieee.org/document/7985281/) [(PDF Link)](http://bayanbox.ir/info/1313132063660147282/roshanfekr2017) 
 
 ## Contribute
 
