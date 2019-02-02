@@ -26,6 +26,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Dependency Parsing](#dependency-parsing)
     - [Text Categorization and Classification](#text-categorization-and-classification)
     - [Spell Checking](#spell-checking-1)
+    - [Persian Poems And Classic Texts](#persian-poems-and-classic-texts)
     - [Machine Tanslation](#machine-tanslation)
     - [Web Collected](#web-collected)
     - [IR Ranking Evaluation](#ir-ranking-evaluation)
@@ -131,7 +132,7 @@ This list is curation of the best, not of everything. Please participate in its 
 - [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 - [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - We're collecting persian words' dictionary (verbs, nouns, and etc.) for Persian spell checker.
 
-### Farsi Poems
+### Persian Poems And Classic Texts
 - [Farsi Poem Corpus](https://github.com/amnghd/Persian_poems_corpus) - This corpus consists of text documents for 48 Persian poets. The corpus comes in three formats; original, normalized (only 32 main Farsi alphabet), and stop words removed. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
 
 
