@@ -17,7 +17,9 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Dependency Parser](#dependency-parser)
     - [Shallow Parser (Chunker)](#shallow-parser)
     - [Text To Speech](#text-to-speech)    
-    - [Summerizer](#summerizer)    
+    - [Summerizer](#summerizer)  
+    - [Sentiment Analysis](#sentiment-analysis)    
+    
 
 
  - Data
@@ -38,6 +40,8 @@ This list is curation of the best, not of everything. Please participate in its 
  - [Papers](#papers)
 
 ## Tools
+### sentiment-analysis
+ - [Persian Sentiment Analysis](https://github.com/ashalogic/Persian-Sentiment-Analyzer) - Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی ) is a simple ready to use project that use Python to create the model and Also it's include a very good IPython Tutorial.
 ### Part-of-Speech Tagger
  - [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
  - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
