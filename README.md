@@ -165,7 +165,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [Persian stopwords collection](https://github.com/ziaa/Persian-stopwords-collection) - A collection of Persian stop words list
   - [Hazm stop words](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat) - Stop words list, good for IR.
   - [mhbashari stopword list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt) - Experimental list of stopwords that is suitable for topic modelling and word embedding.
-
+  - [Persian, Arabic and English stopwords](http://www.mojiry.ir/text_tools/WordFrequencePage.php) - A collection of stopwords on three languages.
 
 ### MISC
   - [PersianStemmingDataset](https://github.com/MrHTZ/PersianStemmingDataset) - PersianStemmingDataset is consist of two manually stemmed persian corpora and an evalution tools in order to compute stemming evaluatin metrics.
