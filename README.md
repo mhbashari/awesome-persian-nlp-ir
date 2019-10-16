@@ -33,10 +33,11 @@ This list is curation of the best, not of everything. Please participate in its 
     - [IR Crawling And Linking Evaluation](#ir-crawling-and-linking-evaluation)
     - [Stop Word Lists](#stop-word-lists)
     - [Pretrained Models](#pretrained-models)    
+    - [Sentiment Analysis](#sentiment-analysis-1)        
     - [MISC](#misc)
     
   - Tutorials
-      - [Sentiment Analysis](#sentiment-analysis-1)
+      - [Sentiment Analysis](#sentiment-analysis-2)
   
  - [Papers](#papers)
 
