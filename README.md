@@ -20,8 +20,6 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Summerizer](#summerizer)  
     - [Sentiment Analysis](#sentiment-analysis)    
     
-
-
  - Data
     - [Part-of-Speech Tagger](#part-of-speech-tagger-1)
     - [Named Entity Recognition](#named-entity-recognition-1)
@@ -36,12 +34,14 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Stop Word Lists](#stop-word-lists)
     - [Pretrained Models](#pretrained-models)    
     - [MISC](#misc)
-
+    
+  - Tutorials
+      - [Sentiment Analysis](#sentiment-analysis-1)
+  
  - [Papers](#papers)
 
 ## Tools
-### sentiment-analysis
- - [Persian Sentiment Analysis](https://github.com/ashalogic/Persian-Sentiment-Analyzer) - Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی ) is a simple ready to use project that use Python to create the model and Also it's include a very good IPython Tutorial.
+
 ### Part-of-Speech Tagger
  - [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
  - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
@@ -91,7 +91,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ### Sentiment Analysis
   - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
-  - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis.
+
 
 ### Spell Checking
   - [async_faspell](https://github.com/eteamin/async_faspell) -Persian spellchecker. An algorithm that suggests words for misspelled words.
@@ -140,7 +140,8 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Persian Poems And Classic Texts
 - [Farsi Poem Corpus](https://github.com/amnghd/Persian_poems_corpus) - This corpus consists of text documents for 48 Persian poets. The corpus comes in three formats; original, normalized (only 32 main Farsi alphabet), and stop words removed. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
 
-
+### Sentiment Analysis
+  - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis.
 ### Machine Tanslation
 #### Parallel Corpus
   - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus.
@@ -177,7 +178,10 @@ This list is curation of the best, not of everything. Please participate in its 
   - [ACL-Wiki Resources for Persian](http://www.aclweb.org/aclwiki/index.php?title=Resources_for_Persian) - Another list of resources for Persian computing.
   - [petit](https://github.com/JKhakpour/petit) - Convert alphabet-written numbers to digit-form
 
-
+## Tutorials
+### Sentiment Analysis
+  - [Persian Sentiment Analysis](https://github.com/ashalogic/Persian-Sentiment-Analyzer) - Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی ) is a simple ready to use project that use Python to create the model and Also it's include a very good IPython Tutorial.
+  
 ## Papers
   - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://jips.jatsxml.org/upload/pdf/jips-11-3-450.pdf)
   - [On the Importance of Ezafe Construction in Persian Parsing](https://www.aclweb.org/anthology/P/P15/P15-2144.pdf)
