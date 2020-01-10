@@ -184,6 +184,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [Persian Sentiment Analysis](https://github.com/ashalogic/Persian-Sentiment-Analyzer) - Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی ) is a simple ready to use project that use Python to create the model and Also it's include a very good IPython Tutorial.
   
 ## Papers
+  - [Sentiment Analysis Challenges in Persian Language](https://arxiv.org/pdf/1907.04407)
   - [Comparative Study of Various Persian Stemmers in the Field of Information Retrieval ](http://jips.jatsxml.org/upload/pdf/jips-11-3-450.pdf)
   - [On the Importance of Ezafe Construction in Persian Parsing](https://www.aclweb.org/anthology/P/P15/P15-2144.pdf)
 
