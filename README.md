@@ -151,6 +151,7 @@ This list is curation of the best, not of everything. Please participate in its 
 #### Monolingual Corpus
  - [TMC: Tehran Monolingual Corpus](http://ece.ut.ac.ir/en/node/940) - The Tehran Monolingual Corpus (TMC) is a large-scale Persian monolingual corpus. TMC is suited for Language Modeling and relevant research areas in Natural Language Processing. The corpus is extracted from Hamshahri Corpus and ISNA news agency website. The quality of Hamshahri corpus is improved for language modeling purpose by a series of tokenization and spell-checking steps.
  - [VOA Persian Corpus](http://jon.dehdari.org/corpora/#persian) - A medium-sized corpus of 7.9 million words, 2003-2008.  The corpus is in the public domain, so no copyright restrictions.
+ - [A large collection of Persian raw text](https://github.com/danyaljj/persian_raw_text) - About **80GB** Persian raw text, collected from a variety of sources, particularly CommonCrawl.  
 
 #### Comparable Corpus
 
