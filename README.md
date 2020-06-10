@@ -145,6 +145,9 @@ This list is curation of the best, not of everything. Please participate in its 
 
 ### Sentiment Analysis
   - [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis.
+  - [Digikala Sentiment Analysis data](https://github.com/minasmz/Sentiment-Analysis-with-LSTM-in-Persian#data-aquisition) - Scraped reviews from Digikala websites. The labels are the stars people who had assigned each product.
+ - [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) - manually annotated Persian dataset, verified by 3 native Persian speakers. The dataset consists of 5,114 positive, 3,061 negative and 1,827 neutral data samples from 5,602 unique reviews.  
+ 
 ### Machine Tanslation
 #### Parallel Corpus
   - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus.
