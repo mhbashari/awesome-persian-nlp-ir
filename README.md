@@ -18,7 +18,8 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Shallow Parser (Chunker)](#shallow-parser)
     - [Text To Speech](#text-to-speech)    
     - [Summerizer](#summerizer)  
-    - [Sentiment Analysis](#sentiment-analysis)    
+    - [Sentiment Analysis](#sentiment-analysis)
+    - [Language Model](#language-model)    
     
  - Data
     - [Part-of-Speech Tagger](#part-of-speech-tagger-1)
@@ -78,6 +79,8 @@ This list is curation of the best, not of everything. Please participate in its 
   - [Perstem](https://github.com/jonsafari/perstem) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
 
 ### Named Entity Recognition
+  - [🤗 ParsBERT-NER](https://github.com/hooshvare/parsbert-ner) - It is a fine-tuned model based on ParsBERT (a monolingual Persian language model) on a vast range of dataset PEYMA, ARMAN, and PEYMA+ARMAN. And it is available from HuggingFace for using both in TensorFlow 2.0 and Pytorch!
+  
 ### Embeddings
 ### Morphological Analysis
   - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
@@ -93,6 +96,8 @@ This list is curation of the best, not of everything. Please participate in its 
 ### Sentiment Analysis
   - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
 
+### Language Model
+  - [🤗 ParsBERT: Transformer-based Model for Persian Language Understanding)](https://github.com/hooshvare/parsbert) - It is a monolingual language model based on Google’s BERT architecture for the Persian Language only! This model is pre-trained on a large Persian corpus with various writing styles from numerous subjects (e.g., scientific, novels, news) with more than 2M documents. A large subset of this corpus was crawled manually.
 
 ### Spell Checking
   - [async_faspell](https://github.com/eteamin/async_faspell) -Persian spellchecker. An algorithm that suggests words for misspelled words.
