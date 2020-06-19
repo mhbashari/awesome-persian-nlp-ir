@@ -119,6 +119,8 @@ This list is curation of the best, not of everything. Please participate in its 
 
   - [Mojgan Seraji Corpus](http://stp.lingfil.uu.se/~mojgan/UPC.html) - Uppsala Persian Corpus (UPC) is a large, freely available Persian corpus. The corpus is a modified version of the Bijankhan corpus with additional sentence segmentation and consistent tokenization containing 2,704,028 tokens and annotated with 31 part-of-speech tags. The part-of-speech tags are listed with explanations in [this table](http://stp.lingfil.uu.se/~mojgan/Table_tag.pdf).
 
+  - [Large-Scale Colloquial Persian](http://hdl.handle.net/11234/1-3195) - Large Scale Colloquial Persian Dataset (LSCP) is hierarchically organized in asemantic taxonomy that focuses on multi-task informal Persian language understanding as a comprehensive problem. LSCP includes 120M sentences from 27M casual Persian tweets with its dependency relations in syntactic annotation, Part-of-speech tags, sentiment polarity and automatic translation of original Persian sentences in English (EN), German (DE), Czech (CS), Italian (IT) and Hindi (HI) spoken languages. Learn more about this project at [LSCP webpage](https://iasbs.ac.ir/~ansari/lscp/).
+
 ### Named Entity Recognition
   - [ArmanPersoNERCorpus](https://github.com/HaniehP/PersianNER) - The dataset includes 250,015 tokens and 7,682 Persian sentences in total. It is available in 3 folds to be used in turn as training and test sets. Each file contains one token, along with its manually annotated named-entity tag, per line. Each sentence is separated with a newline. The NER tags are in IOB format.
   - [FarsiYar PersianNER](https://github.com/Text-Mining/Persian-NER) - The dataset includes about 25,000,000 tokens and about 1,000,000 Persian sentences in total based on [Persian Wikipedia Corpus](https://github.com/Text-Mining/Persian-Wikipedia-Corpus). The NER tags are in IOB format. More than 1000 volunteers contributed tag improvements to this dataset via web panel or android app. They release updated tags every two weeks.
@@ -131,6 +133,7 @@ This list is curation of the best, not of everything. Please participate in its 
    - [Pretrained model](http://stp.lingfil.uu.se/~mojgan/parsper-mate.html)
   - [Universal Dependencies 1.3](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1699) - Multi lingual corpus that holds IOB gold data for dependency parsing
   - [HamleDT 3.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1508) - HArmonized Multi-LanguagE Dependency Treebank is a compilation of existing dependency treebanks (or dependency conversions of other treebanks), transformed so that they all conform to the same annotation style. This version uses Universal Dependencies as the common annotation style.
+  - [Large-Scale Colloquial Persian](http://hdl.handle.net/11234/1-3195) - Large Scale Colloquial Persian Dataset (LSCP) is hierarchically organized in asemantic taxonomy that focuses on multi-task informal Persian language understanding as a comprehensive problem. LSCP includes 120M sentences from 27M casual Persian tweets with its dependency relations in syntactic annotation, Part-of-speech tags, sentiment polarity and automatic translation of original Persian sentences in English (EN), German (DE), Czech (CS), Italian (IT) and Hindi (HI) spoken languages. Learn more about this project at [LSCP webpage](https://iasbs.ac.ir/~ansari/lscp/).
 
 ### Text Categorization and Classification
   - [Hamshahri](http://dbrg.ut.ac.ir/Hamshahri/download.html) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
@@ -149,6 +152,7 @@ This list is curation of the best, not of everything. Please participate in its 
 #### Parallel Corpus
   - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus.
   - [OPUS: the open parallel corpus](http://opus.lingfil.uu.se/) - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. OPUS is based on open source products and the corpus is also delivered as an open content package. We used several tools to compile the current collection. All pre-processing is done automatically. No manual corrections have been carried out.
+  - [Large-Scale Colloquial Persian](http://hdl.handle.net/11234/1-3195) - Large Scale Colloquial Persian Dataset (LSCP) is hierarchically organized in asemantic taxonomy that focuses on multi-task informal Persian language understanding as a comprehensive problem. LSCP includes 120M sentences from 27M casual Persian tweets with its dependency relations in syntactic annotation, Part-of-speech tags, sentiment polarity and automatic translation of original Persian sentences in English (EN), German (DE), Czech (CS), Italian (IT) and Hindi (HI) spoken languages. Learn more about this project at [LSCP webpage](https://iasbs.ac.ir/~ansari/lscp/).
 
 #### Monolingual Corpus
  - [TMC: Tehran Monolingual Corpus](http://ece.ut.ac.ir/en/node/940) - The Tehran Monolingual Corpus (TMC) is a large-scale Persian monolingual corpus. TMC is suited for Language Modeling and relevant research areas in Natural Language Processing. The corpus is extracted from Hamshahri Corpus and ISNA news agency website. The quality of Hamshahri corpus is improved for language modeling purpose by a series of tokenization and spell-checking steps.
@@ -194,6 +198,7 @@ This list is curation of the best, not of everything. Please participate in its 
 
   - [A New Hybrid Stemming Method for Persian Language](http://dsh.oxfordjournals.org/content/early/2015/11/06/llc.fqv053) [(link2)](http://dx.doi.org.sci-hub.cc/10.1093/llc/fqv053)
   - [Sentiment analysis using deep learning on Persian texts](http://ieeexplore.ieee.org/document/7985281/) [(PDF Link)](http://bayanbox.ir/info/1313132063660147282/roshanfekr2017) 
+  - [LSCP: Enhanced Large Scale Colloquial Persian Language Understanding](https://www.aclweb.org/anthology/2020.lrec-1.776/)
 
 ## Contribute
 
