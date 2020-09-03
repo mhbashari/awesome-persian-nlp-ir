@@ -34,7 +34,8 @@ This list is curation of the best, not of everything. Please participate in its 
     - [IR Crawling And Linking Evaluation](#ir-crawling-and-linking-evaluation)
     - [Stop Word Lists](#stop-word-lists)
     - [Pretrained Models](#pretrained-models)    
-    - [Sentiment Analysis](#sentiment-analysis-1)        
+    - [Sentiment Analysis](#sentiment-analysis-1)
+    - [Kowledge Bases](#knowledge-bases)
     - [MISC](#misc)
     
   - Tutorials
@@ -200,6 +201,9 @@ This list is curation of the best, not of everything. Please participate in its 
   - [PersPred](http://perspred.cnrs.fr/perspred-project) - PersPred, is the first online multilingual syntactic and semantic database of Persian compound verbs (complex predicates), developed by the members of the research unit Mondes iranien et indien (CNRS, Sorbonne Nouvelle, Inalco, EPHE) within the ANR-DFG project PERGRAM (2008-2012) and the LR4.1 work package of the Strand 6 of the Labex Empirical Foundations of Linguistics (EFL).
   - [ACL-Wiki Resources for Persian](http://www.aclweb.org/aclwiki/index.php?title=Resources_for_Persian) - Another list of resources for Persian computing.
   - [petit](https://github.com/JKhakpour/petit) - Convert alphabet-written numbers to digit-form
+
+### Kowledge Bases
+ - [FarsBase](http://farsbase.net/about) -  FarsBase the first Persian multi-source knowledge graph, which isspecifically designed for semantic search engines to support Persian knowledge. FarsBase uses a diverse set of hybrid and flexible techniques to extract and integrate knowledge from various sources, such as Wikipedia, Web tables and unstructured texts. Here is [the relevant paper](http://www.semantic-web-journal.net/system/files/swj2210.pdf). 
 
 ## Tutorials
 ### Sentiment Analysis
