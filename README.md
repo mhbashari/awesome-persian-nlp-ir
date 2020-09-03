@@ -134,7 +134,7 @@ This list is curation of the best, not of everything. Please participate in its 
  - [Workshop on NLP Solutions for Under Resourced Languages (NSURL) 2019 - Task 7 dataset](http://nsurl.org/tasks/task-7-named-entity-recognition-ner-for-farsi/) - contains a medium size NER corpus with 7 classes of named entities (person, location and organization, money, percent, dates, and time). This corpus contains more than 700 news documents. 
 
 ### Relation Extraction 
-  - [PERLEX](https://arxiv.org/pdf/2005.06588.pdf) - The first Persian dataset for relation extraction, which is an experttranslated version of the “Semeval-2010-Task-8” dataset. Link to [the dataset](http://farsbase.net/PERLEX.html). 
+  - [PERLEX](http://farsbase.net/PERLEX.html) - The first Persian dataset for relation extraction, which is an experttranslated version of the “Semeval-2010-Task-8” dataset. Link to [the relevant publication](https://arxiv.org/pdf/2005.06588.pdf). 
  
 ### Dependency Parsing
   - [Persian Syntactic Dependency Treebank](http://dadegan.ir/catalog/perdt) - This treebank is supplied for free noncommercial use. For commercial uses feel free to contact us. The number of annotated sentences is 29,982 sentences including samples from almost all verbs of the Persian valency lexicon.
