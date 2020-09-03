@@ -24,6 +24,7 @@ This list is curation of the best, not of everything. Please participate in its 
  - Data
     - [Part-of-Speech Tagger](#part-of-speech-tagger-1)
     - [Named Entity Recognition](#named-entity-recognition-1)
+    - [Relation Extraction](#relation-extraction)
     - [Dependency Parsing](#dependency-parsing)
     - [Text Categorization and Classification](#text-categorization-and-classification)
     - [Spell Checking](#spell-checking-1)
@@ -132,6 +133,8 @@ This list is curation of the best, not of everything. Please participate in its 
   - [FarsiYar PersianNER](https://github.com/Text-Mining/Persian-NER) - The dataset includes about 25,000,000 tokens and about 1,000,000 Persian sentences in total based on [Persian Wikipedia Corpus](https://github.com/Text-Mining/Persian-Wikipedia-Corpus). The NER tags are in IOB format. More than 1000 volunteers contributed tag improvements to this dataset via web panel or android app. They release updated tags every two weeks.
  - [Workshop on NLP Solutions for Under Resourced Languages (NSURL) 2019 - Task 7 dataset](http://nsurl.org/tasks/task-7-named-entity-recognition-ner-for-farsi/) - contains a medium size NER corpus with 7 classes of named entities (person, location and organization, money, percent, dates, and time). This corpus contains more than 700 news documents. 
 
+### Relation Extraction 
+  - [PERLEX](https://arxiv.org/pdf/2005.06588.pdf) - The first Persian dataset for relation extraction, which is an experttranslated version of the “Semeval-2010-Task-8” dataset. Link to [the dataset](http://farsbase.net/PERLEX.html). 
  
 ### Dependency Parsing
   - [Persian Syntactic Dependency Treebank](http://dadegan.ir/catalog/perdt) - This treebank is supplied for free noncommercial use. For commercial uses feel free to contact us. The number of annotated sentences is 29,982 sentences including samples from almost all verbs of the Persian valency lexicon.
