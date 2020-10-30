@@ -24,9 +24,11 @@ This list is curation of the best, not of everything. Please participate in its 
  - Data
     - [Part-of-Speech Tagger](#part-of-speech-tagger-1)
     - [Named Entity Recognition](#named-entity-recognition-1)
+    - [Relation Extraction](#relation-extraction)
     - [Dependency Parsing](#dependency-parsing)
     - [Text Categorization and Classification](#text-categorization-and-classification)
     - [Spell Checking](#spell-checking-1)
+    - [Textual Entailment)(#textual-entailment)
     - [Persian Poems And Classic Texts](#persian-poems-and-classic-texts)
     - [Machine Tanslation](#machine-tanslation)
     - [Web Collected](#web-collected)
@@ -34,7 +36,8 @@ This list is curation of the best, not of everything. Please participate in its 
     - [IR Crawling And Linking Evaluation](#ir-crawling-and-linking-evaluation)
     - [Stop Word Lists](#stop-word-lists)
     - [Pretrained Models](#pretrained-models)    
-    - [Sentiment Analysis](#sentiment-analysis-1)        
+    - [Sentiment Analysis](#sentiment-analysis-1)
+    - [Kowledge Bases](#knowledge-bases)
     - [MISC](#misc)
     
   - Tutorials
@@ -131,6 +134,8 @@ This list is curation of the best, not of everything. Please participate in its 
   - [FarsiYar PersianNER](https://github.com/Text-Mining/Persian-NER) - The dataset includes about 25,000,000 tokens and about 1,000,000 Persian sentences in total based on [Persian Wikipedia Corpus](https://github.com/Text-Mining/Persian-Wikipedia-Corpus). The NER tags are in IOB format. More than 1000 volunteers contributed tag improvements to this dataset via web panel or android app. They release updated tags every two weeks.
  - [Workshop on NLP Solutions for Under Resourced Languages (NSURL) 2019 - Task 7 dataset](http://nsurl.org/tasks/task-7-named-entity-recognition-ner-for-farsi/) - contains a medium size NER corpus with 7 classes of named entities (person, location and organization, money, percent, dates, and time). This corpus contains more than 700 news documents. 
 
+### Relation Extraction 
+  - [PERLEX](http://farsbase.net/PERLEX.html) - The first Persian dataset for relation extraction, which is an experttranslated version of the “Semeval-2010-Task-8” dataset. Link to [the relevant publication](https://arxiv.org/pdf/2005.06588.pdf). 
  
 ### Dependency Parsing
   - [Persian Syntactic Dependency Treebank](http://dadegan.ir/catalog/perdt) - This treebank is supplied for free noncommercial use. For commercial uses feel free to contact us. The number of annotated sentences is 29,982 sentences including samples from almost all verbs of the Persian valency lexicon.
@@ -148,6 +153,9 @@ This list is curation of the best, not of everything. Please participate in its 
 - [FAspell](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1547) - FASpell dataset was developed for the evaluation of spell checking algorithms. It contains a set of pairs of misspelled Persian words and their corresponding corrected forms similar to the ASpell dataset used for English.
 - [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - We're collecting persian words' dictionary (verbs, nouns, and etc.) for Persian spell checker.
 
+### Textual Entailment 
+- [FarsTail](https://github.com/dml-qom/FarsTail) -  FarsTail is a dataset of textual entailment (also known as natural language inference, NLI) and it includes 10,367 samples in the Persian language. Here is [the relevant paper](https://arxiv.org/pdf/2009.08820.pdf). 
+
 ### Persian Poems And Classic Texts
 - [Farsi Poem Corpus](https://github.com/amnghd/Persian_poems_corpus) - This corpus consists of text documents for 48 Persian poets. The corpus comes in three formats; original, normalized (only 32 main Farsi alphabet), and stop words removed. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
 
@@ -161,18 +169,20 @@ This list is curation of the best, not of everything. Please participate in its 
  
 ### Machine Tanslation
 #### Parallel Corpus
-  - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus.
-  - [OPUS: the open parallel corpus](http://opus.lingfil.uu.se/) - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. OPUS is based on open source products and the corpus is also delivered as an open content package. We used several tools to compile the current collection. All pre-processing is done automatically. No manual corrections have been carried out.
-  - [Large-Scale Colloquial Persian](http://hdl.handle.net/11234/1-3195) - Large Scale Colloquial Persian Dataset (LSCP) is hierarchically organized in asemantic taxonomy that focuses on multi-task informal Persian language understanding as a comprehensive problem. LSCP includes 120M sentences from 27M casual Persian tweets with its dependency relations in syntactic annotation, Part-of-speech tags, sentiment polarity and automatic translation of original Persian sentences in English (EN), German (DE), Czech (CS), Italian (IT) and Hindi (HI) spoken languages. Learn more about this project at [LSCP webpage](https://iasbs.ac.ir/~ansari/lscp/).
+ - [TEP: Tehran English-Persian Parallel Corpus](http://ece.ut.ac.ir/node/100869?destination=node%2F100869) - First free English-Persian corpus.
+ - [OPUS: the open parallel corpus](http://opus.lingfil.uu.se/) - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. OPUS is based on open source products and the corpus is also delivered as an open content package. We used several tools to compile the current collection. All pre-processing is done automatically. No manual corrections have been carried out.
+ - [Tanzil project](http://opus.nlpl.eu/Tanzil.php) - Tanzil project is a collection of Quran translations to many languages, including Persian. 
+ - [Large-Scale Colloquial Persian](http://hdl.handle.net/11234/1-3195) - Large Scale Colloquial Persian Dataset (LSCP) is hierarchically organized in asemantic taxonomy that focuses on multi-task informal Persian language understanding as a comprehensive problem. LSCP includes 120M sentences from 27M casual Persian tweets with its dependency relations in syntactic annotation, Part-of-speech tags, sentiment polarity and automatic translation of original Persian sentences in English (EN), German (DE), Czech (CS), Italian (IT) and Hindi (HI) spoken languages. Learn more about this project at [LSCP webpage](https://iasbs.ac.ir/~ansari/lscp/).
  - [MIZAN](https://github.com/omidkashefi/Mizan) -  a Persian-English parallel corpus with about 1 million sentence pairs collected from masterpieces of literature. [Here](https://arxiv.org/pdf/1801.02107.pdf) is the relevant paper.  
  - [PEPC: Parallel English-Persian Corpus Extracted from Wikipedia](https://iasbs.ac.ir/~ansari/nlp/pepc.html) - a collection of parallel sentences in English and Persian languages extracted from Wikipedia documents using a bidirectional translation method. 
-
+ - [Bible corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible. The corpus also contains a Persian Bibble.  
 
 #### Monolingual Corpus
  - [TMC: Tehran Monolingual Corpus](http://ece.ut.ac.ir/en/node/940) - The Tehran Monolingual Corpus (TMC) is a large-scale Persian monolingual corpus. TMC is suited for Language Modeling and relevant research areas in Natural Language Processing. The corpus is extracted from Hamshahri Corpus and ISNA news agency website. The quality of Hamshahri corpus is improved for language modeling purpose by a series of tokenization and spell-checking steps.
  - [VOA Persian Corpus](http://jon.dehdari.org/corpora/#persian) - A medium-sized corpus of 7.9 million words, 2003-2008.  The corpus is in the public domain, so no copyright restrictions.
  - [MirasText](https://github.com/miras-tech/MirasText): Automatically Extracted Text Persian Corpus (about 12GB).
  - [A large collection of Persian raw text](https://github.com/persiannlp/persian-raw-text) - About **80GB** Persian raw text, collected from a variety of sources, particularly CommonCrawl.  
+ 
 
 #### Comparable Corpus
 
@@ -200,6 +210,9 @@ This list is curation of the best, not of everything. Please participate in its 
   - [PersPred](http://perspred.cnrs.fr/perspred-project) - PersPred, is the first online multilingual syntactic and semantic database of Persian compound verbs (complex predicates), developed by the members of the research unit Mondes iranien et indien (CNRS, Sorbonne Nouvelle, Inalco, EPHE) within the ANR-DFG project PERGRAM (2008-2012) and the LR4.1 work package of the Strand 6 of the Labex Empirical Foundations of Linguistics (EFL).
   - [ACL-Wiki Resources for Persian](http://www.aclweb.org/aclwiki/index.php?title=Resources_for_Persian) - Another list of resources for Persian computing.
   - [petit](https://github.com/JKhakpour/petit) - Convert alphabet-written numbers to digit-form
+
+### Kowledge Bases
+ - [FarsBase](http://farsbase.net/about) -  FarsBase the first Persian multi-source knowledge graph, which isspecifically designed for semantic search engines to support Persian knowledge. FarsBase uses a diverse set of hybrid and flexible techniques to extract and integrate knowledge from various sources, such as Wikipedia, Web tables and unstructured texts. Here is [the relevant paper](http://www.semantic-web-journal.net/system/files/swj2210.pdf). 
 
 ## Tutorials
 ### Sentiment Analysis
