@@ -28,7 +28,7 @@ This list is curation of the best, not of everything. Please participate in its 
     - [Dependency Parsing](#dependency-parsing)
     - [Text Categorization and Classification](#text-categorization-and-classification)
     - [Spell Checking](#spell-checking-1)
-    - [Textual Entailment)(#textual-entailment)
+    - [Textual Entailment](#textual-entailment)
     - [Persian Poems And Classic Texts](#persian-poems-and-classic-texts)
     - [Machine Tanslation](#machine-tanslation)
     - [Web Collected](#web-collected)
