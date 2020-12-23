@@ -1,5 +1,6 @@
 # Persian Language Processing Datasets
 
+## Table Of Contents
 - [Part-of-Speech Tagger](#part-of-speech-tagger)
 - [Named Entity Recognition](#named-entity-recognition)
 - [Relation Extraction](#relation-extraction)
