@@ -1,5 +1,5 @@
 # Persian Natural Processing Tools
-## Table Od Contents
+## Table Of Contents
 - [Part-of-Speech Tagger](#part-of-speech-tagger)
 - [Language Detection](#language-detection)
 - [Tokenization & Segmentation](#tokenization--segmentation)
