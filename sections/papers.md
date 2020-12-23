@@ -1,5 +1,6 @@
-# Papers
+# Persian Natural Processing Pappers
 
+## Table Of Contents
 - [Sentiment](#sentiment)
 - [MISC](#misc)
 
