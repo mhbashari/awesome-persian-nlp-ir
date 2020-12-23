@@ -1,8 +1,7 @@
 # Papers
 
-- [Papers](#papers)
-  - [Sentiment](#sentiment)
-  - [MISC](#misc)
+- [Sentiment](#sentiment)
+- [MISC](#misc)
 
 ## Sentiment
 - [Sentiment Analysis Challenges in Persian Language](https://arxiv.org/pdf/1907.04407)
