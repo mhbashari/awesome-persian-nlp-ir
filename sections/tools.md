@@ -4,6 +4,7 @@
 - [Language Detection](#language-detection)
 - [Tokenization & Segmentation](#tokenization--segmentation)
 - [Normalizer And Text Cleaner](#normalizer-and-text-cleaner)
+- [Translator](#translator)
 - [Transliterator](#transliterator)
 - [Morphological Analysis](#morphological-analysis)
 - [Stemmer](#stemmer)
@@ -46,6 +47,9 @@
 - [Virastyar](http://www.virastyar.ir/development) - A collection of C# libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
 - [Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian (Has Half-Space Normalizer and Pinglish Conversion)
   
+## Translator
+- [SPL](https://github.com/stanford-oval/SPL) - Semantic Parser Localizer toolkit can be used to translate text between any language pairs for which an NMT model exists. We currently support [Marian](https://github.com/marian-nmt/marian) models and Google Translate. In general, for translations to or from Persian, Google Translate has higher quality.
+
 ## Transliterator
 - [Perstem](https://github.com/jonsafari/perstem) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
 
