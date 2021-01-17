@@ -19,6 +19,7 @@
 - [ALBERT Persian News](https://github.com/m3hrdadfi/albert-persian)
 
 ## Sentiment Analysis
+- [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers)
 - [ParsBERT Digikala OpenData](https://github.com/hooshvare/parsbert)
 - [ParsBERT SnappFood](https://github.com/hooshvare/parsbert)
 - [ParsBERT DeepSentiPers Multi](https://github.com/hooshvare/parsbert)
