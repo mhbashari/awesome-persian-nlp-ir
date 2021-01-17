@@ -70,6 +70,7 @@
 - [Digikala OpenData Sentiment](https://www.digikala.com/opendata/#section-4) - data contains 100,000 samples of users' comments in favor of products labeled as `no_idea`, `not_recommended `, and `recommended `.
 - [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) - Manually annotated Persian dataset, verified by 3 native Persian speakers. The dataset consists of 5,114 positive, 3,061 negative and 1,827 neutral data samples from 5,602 unique reviews.  
 - [PerSent](https://www.gelbukh.com/resources/persent/) - This dataset presents real-valued polarity labels, in the range from -1 to 1, for thousands of Persian words and expressions.  
+- [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers) - Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus
 - [SentiPers](https://github.com/phosseini/sentipers) -  Documents in SentiPers are manually annotated at different levels. 
 - [LexiPers](https://github.com/phosseini/lexipers) - An ontology based sentiment lexicon for Persian.  
 - [SnappFood](https://hooshvare.github.io/docs/datasets/sa#snappfood) - Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification), `Happy` and `Sad`.
