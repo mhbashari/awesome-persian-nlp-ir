@@ -5,6 +5,8 @@
 - [MISC](#misc)
 
 ## Sentiment
+- [Presenting A Sentiment Analysis System Using Deep Learning Models On Persian Texts (In Persian)](https://zenodo.org/record/3551273)
+- [DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus](https://arxiv.org/abs/2004.05328)
 - [Sentiment Analysis Challenges in Persian Language](https://arxiv.org/pdf/1907.04407)
 - [Sentiment analysis using deep learning on Persian texts](http://ieeexplore.ieee.org/document/7985281/) [(PDF Link)](http://bayanbox.ir/info/1313132063660147282/roshanfekr2017) 
 
