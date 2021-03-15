@@ -28,9 +28,26 @@
 - [ALBERT SnappFood](https://github.com/m3hrdadfi/albert-persian)
 - [ALBERT DeepSentiPers Multi](https://github.com/m3hrdadfi/albert-persian)
 - [ALBERT DeepSentiPers Binary](https://github.com/m3hrdadfi/albert-persian)
+- [mT5 trained on ParsiNLU-ABSA](https://huggingface.co/persiannlp/mt5-base-parsinlu-sentiment-analysis?text=%DB%8C%DA%A9+%D9%81%DB%8C%D9%84%D9%85+%D8%B6%D8%B9%DB%8C%D9%81+%D8%A8%DB%8C+%D9%85%D8%AD%D8%AA%D9%88%D8%A7+%D8%A8%D8%AF%D9%88%D9%86+%D9%81%DB%8C%D9%84%D9%85%D9%86%D8%A7%D9%85%D9%87+.+%D8%B4%D9%88%D8%AE%DB%8C+%D9%87%D8%A7%DB%8C+%D8%B3%D8%AE%DB%8C%D9%81+.+%3Csep%3E+%D9%86%D8%B8%D8%B1+%D8%B4%D9%85%D8%A7+%D8%AF%D8%B1+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%8C+%D9%81%DB%8C%D9%84%D9%85%D9%86%D8%A7%D9%85%D9%87%D8%8C+%D8%AF%DB%8C%D8%A7%D9%84%D9%88%DA%AF+%D9%87%D8%A7+%D9%88+%D9%85%D9%88%D8%B6%D9%88%D8%B9+%D9%81%DB%8C%D9%84%D9%85++%D9%84%D9%88%D9%86%D9%87+%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%DA%86%DB%8C%D8%B3%D8%AA%D8%9F+)
+
 
 ## Summarization
 - [BERT2BERT](https://github.com/m3hrdadfi/wiki-summary) - BERT2BERT is the first pre-trained summarization model trained on Wiki Summary based on ParsBERT. 
+
+## Multiple-Choice QA
+- [mT5 trained on ParsiNLU-MCQA](https://huggingface.co/persiannlp/mt5-base-parsinlu-arc-comqa-obqa-multiple-choice?text=%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%DB%8C%D8%A7+%DA%A9%D8%AF%D8%A7%D9%85+%D8%A7%D8%B3%D8%AA%D8%9F+%3Csep%3E+%D9%85%D9%84%D8%A8%D9%88%D8%B1%D9%86+%3Csep%3E+%D8%B3%DB%8C%D8%AF%D9%86%DB%8C+%3Csep%3E+%DA%A9%D9%86%D8%A8%D8%B1%D8%A7+&fullscreen=true)  
+
+## Reading Comprehension
+- [mT5 trained on ParsiNLU-RC](https://huggingface.co/persiannlp/mt5-base-parsinlu-squad-reading-comprehension?text=%D9%82%D8%A7%D8%B1%D9%87+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%D8%AF%D8%B1+%DA%86%D9%87+%D8%B3%D8%A7%D9%84%DB%8C+%DA%A9%D8%B4%D9%81+%D8%B4%D8%AF%D8%9F+%5Cn+%DB%8C%D8%B4+%D8%A7%D8%B2+%D8%AF%D9%87+%D9%87%D8%B2%D8%A7%D8%B1+%D8%B3%D8%A7%D9%84+%D8%A7%D8%B3%D8%AA+%DA%A9%D9%87+%D8%A7%D9%86%D8%B3%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7+%D8%AF%D8%B1+%D9%82%D8%A7%D8%B1%D9%87%D9%94+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%D8%B2%D9%86%D8%AF%DA%AF%DB%8C+%D9%85%DB%8C%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF.+%D9%82%D8%A7%D8%B1%D9%87+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%D8%AA%D9%88%D8%B3%D8%B7+%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D9%81+%DA%A9%D9%84%D9%85%D8%A8+%D9%88+%D8%AF%D8%B1+%D8%B3%D8%A7%D9%84+%DB%B1%DB%B4%DB%B9%DB%B2+%DA%A9%D8%B4%D9%81+%D8%B4%D8%AF+%D8%A7%D9%85%D8%A7+%D8%A7%D9%88+%D8%A8%D9%87+%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%87+%D9%81%DA%A9%D8%B1+%DA%A9%D8%B1%D8%AF+%DA%A9%D9%87+%D8%A2%D9%86%D8%AC%D8%A7+%D9%87%D9%86%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86+%D8%A7%D8%B3%D8%AA+%D8%A7%D9%85%D8%A7+%D9%85%D8%AF%D8%AA%E2%80%8C%D9%87%D8%A7+%D8%A8%D8%B9%D8%AF+%D8%A2%D9%85%D8%B1%DB%8C%DA%AF%D9%88+%D9%88%D8%B3%D9%BE%D9%88%DA%86%DB%8C+%D8%A7%D8%B9%D9%84%D8%A7%D9%85+%DA%A9%D8%B1%D8%AF+%DA%A9%D9%87+%D8%A7%DB%8C%D9%86+%D9%82%D8%A7%D8%B1%D9%87+%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C+%D8%A7%D8%B3%D8%AA.+%D8%A7%D9%85%D8%A7+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%D8%A8%D9%87+%D8%B9%D9%86%D9%88%D8%A7%D9%86+%DB%8C%DA%A9+%DA%A9%D8%B4%D9%88%D8%B1+%D9%85%D8%B3%D8%AA%D9%82%D9%84+%D8%A8%D9%87+%D8%B3%D8%A7%D9%84+%DB%B1%DB%B7%DB%B8%DB%B3+%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C+%D8%A8%D8%A7%D8%B2%D9%85%DB%8C%E2%80%8C%DA%AF%D8%B1%D8%AF%D8%AF+%DA%A9%D9%87+%D8%AF%D8%B1+%D8%A2%D9%86+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%D8%A8%D8%B1+%D8%B7%D8%A8%D9%82+%D9%85%D8%B9%D8%A7%D9%87%D8%AF%D9%87%D9%94+%D9%BE%D8%A7%D8%B1%DB%8C%D8%B3+%D8%A8%D9%87+%D8%B1%D8%B3%D9%85%DB%8C%D8%AA+%D8%B4%D9%86%D8%A7%D8%AE%D8%AA%D9%87+%DA%AF%D8%B1%D8%AF%DB%8C%D8%AF.&fullscreen=true) -  
+
+## Translation
+- [mT5 trained on ParsiNLU-MT](https://huggingface.co/persiannlp/mt5-base-parsinlu-opus-translation_fa_en) 
+
+## Textual Entailment
+- [mT5 trained on ParsiNLU-TE](https://huggingface.co/persiannlp/mt5-base-parsinlu-snli-entailment?text=%D8%A2%DB%8C%D8%A7+%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86%DB%8C+%D9%88%D8%AC%D9%88%D8%AF+%D8%AF%D8%A7%D8%B1%D9%86%D8%AF+%DA%A9%D9%87+%D9%86%DB%8C%D8%A7%D8%B2+%D8%A8%D9%87+%D8%B3%D8%B1%DA%AF%D8%B1%D9%85%DB%8C+%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D8%9F+%3Csep%3E+%D9%87%DB%8C%DA%86+%DA%A9%D9%88%D8%AF%DA%A9%DB%8C+%D9%87%D8%B1%DA%AF%D8%B2+%D9%86%D9%85%DB%8C+%D8%AE%D9%88%D8%A7%D9%87%D8%AF+%D8%B3%D8%B1%DA%AF%D8%B1%D9%85+%D8%B4%D9%88%D8%AF.&fullscreen=true)   
+
+## Query Paraphrasing
+- [mT5 trained on ParsiNLU-QP](https://huggingface.co/persiannlp/mt5-base-parsinlu-qqp-query-paraphrasing?text=%D8%A2%DB%8C%D8%A7+%D9%84%DB%8C%D8%B2%D8%B1+%D9%85%D9%88%D9%87%D8%A7%DB%8C+%D8%B2%D8%A7%D8%A6%D8%AF+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%A7%D8%B3%D8%AA%D8%9F+%3Csep%3E+%D8%A2%DB%8C%D8%A7+%D9%84%DB%8C%D8%B2%D8%B1+%D9%85%D9%88%D9%87%D8%A7%DB%8C+%D8%B2%D8%A7%D8%A6%D8%AF+%D8%A8%D8%A7%D8%B9%D8%AB+%D9%81%D8%B1%D8%A7%D8%B1+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%A7%D8%B2+%D9%85%D9%88%D9%87%D8%A7%DB%8C+%D9%86%D8%A7%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87+%D9%85%DB%8C+%D8%B4%D9%88%D8%AF%D8%9F&fullscreen=true)   
 
 ## Embeddings
 - [Farsi Poem word2vec model](https://github.com/amnghd/Word2vec-on-Farsi-Literature) - This is a word2vec model deveoped based on a corpus of 48 Persian poets. The corpus consists of 1,216,286 mesras of Farsi poems and 8,102,119 words from which 148,588 are unique.
