@@ -39,6 +39,7 @@
 - [Persian Sentence Segmenter and Tokenizer: SeTPer](http://stp.lingfil.uu.se/~mojgan/setper.html) - Regex based sentence segmenter.
 - [Farsi-Verb-Tokenizer](https://github.com/mehdi-manshadi/Farsi-Verb-Tokenizer) - Tokenizes Farsi Verbs.
 - [Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
+- [ParsiAnalyzer](https://github.com/NarimanN2/ParsiAnalyzer) -  Persian Analyzer For Elasticsearch.
 
 ## Normalizer And Text Cleaner
 - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
@@ -46,7 +47,8 @@
 - [virastar](https://github.com/aziz/virastar) - Cleaning up Persian text!.replace double dash to ndash and triple dash to mdash, replace English numbers with their Persian equivalent, correct :;,.?! spacing (one space after and no space before), replace English percent sign to its Persian equivalent and many other normalization. Virastar is written by ruby and has [python port](https://github.com/JKhakpour/virastar.py).
 - [Virastyar](http://www.virastyar.ir/development) - A collection of C# libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
 - [Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian (Has Half-Space Normalizer and Pinglish Conversion)
-  
+- [ParsiAnalyzer](https://github.com/NarimanN2/ParsiAnalyzer) -  Persian Analyzer For Elasticsearch.
+ 
 ## Translator
 - [SPL](https://github.com/stanford-oval/SPL) - Semantic Parser Localizer toolkit can be used to translate text between any language pairs for which an NMT model exists. We currently support [Marian](https://github.com/marian-nmt/marian) models and Google Translate. In general, for translations to or from Persian, Google Translate has higher quality.
 
@@ -61,6 +63,7 @@
 - [Perstem](https://github.com/jonsafari/perstem) - Perstem is a Persian (Farsi) stemmer, morphological analyzer, transliterator, and partial part-of-speech tagger. Inflexional morphemes are separated or removed from their stems. Perstem can also tokenize and transliterate between various character set encodings and romanizations.
 - [polyglot](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
 - [Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
+- [ParsiAnalyzer](https://github.com/NarimanN2/ParsiAnalyzer) -  Persian Analyzer For Elasticsearch.
 
 ## Sentiment Analysis
 - [polyglot (polarity)](https://github.com/aboSamoor/polyglot) -  Natural language pipeline that supports massive multilingual applications (like lokenization (165 languages), language detection (196 languages), named entity recognition (40 languages), part of speech tagging (16 languages), sentiment analysis (136 languages), word embeddings (137 languages), morphological analysis (135 languages), transliteration (69 Languages)).
