@@ -15,6 +15,7 @@
 - [Information Extraction](#information-extraction)
 - [Text To Speech](#text-to-speech)
 - [MISC](#misc)
+- [Keyphrase Extractor](#keyphrase-extractor)
 
 ## Part-of-Speech Tagger
 - [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
@@ -86,3 +87,6 @@
 
 ## MISC
 - [petit](https://github.com/JKhakpour/petit) - Convert alphabet-written numbers to digit-form
+
+## Keyphrase Extractor
+- [Perke](https://github.com/AlirezaH320/perke) - Perke is a Python keyphrase extraction package for Persian language. It provides an end-to-end keyphrase extraction pipeline in which each component can be easily modified or extended to develop new models.
