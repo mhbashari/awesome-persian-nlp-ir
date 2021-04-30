@@ -5,6 +5,7 @@
   - [Text Classification](#text-classification)
   - [Sentiment Analysis](#sentiment-analysis)
   - [Summarization](#summarization)
+  - [Question Answering](#question-answering)
   - [Embeddings](#embeddings)
   - [Language Model](#language-model)
 
@@ -33,6 +34,10 @@
 
 ## Summarization
 - [BERT2BERT](https://github.com/m3hrdadfi/wiki-summary) - BERT2BERT is the first pre-trained summarization model trained on Wiki Summary based on ParsBERT. 
+
+## Question Answering
+- [bert-base-fa-qa on PersianQA](https://huggingface.co/SajjadAyoubi/bert-base-fa-qa)
+- [xlm-roberta-large-fa-qa on PersianQA](https://huggingface.co/SajjadAyoubi/xlm-roberta-large-fa-qa)
 
 ## Multiple-Choice QA
 - [mT5 trained on ParsiNLU-MCQA](https://huggingface.co/persiannlp/mt5-base-parsinlu-arc-comqa-obqa-multiple-choice?text=%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%DB%8C%D8%A7+%DA%A9%D8%AF%D8%A7%D9%85+%D8%A7%D8%B3%D8%AA%D8%9F+%3Csep%3E+%D9%85%D9%84%D8%A8%D9%88%D8%B1%D9%86+%3Csep%3E+%D8%B3%DB%8C%D8%AF%D9%86%DB%8C+%3Csep%3E+%DA%A9%D9%86%D8%A8%D8%B1%D8%A7+&fullscreen=true)  
