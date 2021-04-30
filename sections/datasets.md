@@ -12,6 +12,7 @@
 - [Persian Poems And Classic Texts](#persian-poems-and-classic-texts)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Summarization](#summarization)
+- [Question Answering](#question-answering)
 - [Irony - Insult](#irony---insult)
 - [Corpus](#corpus)
 - [Stop Word Lists](#stop-word-lists)
@@ -78,6 +79,10 @@
 
 ## Summarization
 - [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary) - Wiki Summary is a summarization dataset extracted from Persian Wikipedia into the form of articles and highlights.
+
+
+## Question Answering
+- [PersianQA](https://github.com/sajjjadayobi/PersianQA) - Persian Question Answering (PersianQA) Dataset is a reading comprehension dataset on Persian Wikipedia. The crowd-sourced dataset consists of more than 9,000 entries. Each entry can be either an impossible-to-answer or a question with one or more answers spanning in the passage (the context) from which the questioner proposed the question. Much like the SQuAD2.0 dataset, the impossible or unanswerable questions can be utilized to create a system which "knows that it doesn't know the answer".
 
 ## Irony - Insult
 - [MirasIrony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony) - The irony dataset is constructed from Persian tweets. 2942 tweets are labeled in total.
