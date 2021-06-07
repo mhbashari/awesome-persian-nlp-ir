@@ -86,6 +86,7 @@
 
 ## Irony - Insult
 - [MirasIrony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony) - The irony dataset is constructed from Persian tweets. 2942 tweets are labeled in total.
+- [Persian (Farsi) Swear Words](https://github.com/amirshnll/Persian-Swear-Words) - This is a to-be-complete list of Persian Swears you can use in your production to filter unwanted content. Wordlist is available in JSON format and there is also a helper class written in PHP to assist you how to use this datas.
 
 ## Corpus
 - [TEP: Tehran English-Persian Parallel Corpus](https://ece.ut.ac.ir/web/nlp/resources) - First free English-Persian corpus.
@@ -113,9 +114,11 @@
 - [Hazm stop words](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat) - Stop words list, good for IR.
 - [mhbashari stopword list](https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/stopwords.txt) - Experimental list of stopwords that is suitable for topic modelling and word embedding.
 - [Persian, Arabic and English stopwords](http://www.mojiry.ir/text_tools/WordFrequencePage.php) - A collection of stopwords on three languages.
+- [persian stop word](https://github.com/amirshnll/persian-stop-word/) - persian stop word data + .json Datasets.
 
 ## Knowledge Bases
 - [FarsBase](http://farsbase.net/about) -  FarsBase the first Persian multi-source knowledge graph, which isspecifically designed for semantic search engines to support Persian knowledge. FarsBase uses a diverse set of hybrid and flexible techniques to extract and integrate knowledge from various sources, such as Wikipedia, Web tables and unstructured texts. Here is [the relevant paper](http://www.semantic-web-journal.net/system/files/swj2210.pdf). 
+- [persian sms spam word](https://github.com/amirshnll/persian-sms-spam-word/) - This is a to-be-complete list of Persian SMS spam Words. Wordlist is available in JSON format. 
 
 ## MISC
 - [ParsiNLU](https://github.com/persiannlp/parsinlu) - A collection natural language understanding datasets for Persian. [Here is the relevant paper.](https://arxiv.org/abs/2012.06154)
