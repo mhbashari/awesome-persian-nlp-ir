@@ -23,11 +23,11 @@
 ## Text Classification
 - [Using ParsBert on Augmented Data for Persian News Classification](https://ieeexplore.ieee.org/abstract/document/9443119)
 
-##Semantic Similarity
+## Semantic Similarity
 - [Designing a Deep Neural Network Model for Finding Semantic Similarity Between Short Persian Texts Using a Parallel Corpus](https://ieeexplore.ieee.org/abstract/document/9443108)
 - [A method Based on an Attention Mechanism to Measure the Similarity of two Sentences](https://ieeexplore.ieee.org/abstract/document/9443135)
 
-##Question Answering
+## Question Answering
 - [ParSQuAD: Machine Translated SQuAD dataset for Persian Question Answering](https://ieeexplore.ieee.org/abstract/document/9443126)
 
 ## MISC
