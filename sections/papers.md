@@ -1,4 +1,4 @@
-# Persian Natural Processing Pappers
+# Persian Natural Processing Papers
 
 ## Table Of Contents
 - [Sentiment](#sentiment)
