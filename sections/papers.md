@@ -36,3 +36,4 @@
 - [A New Hybrid Stemming Method for Persian Language](http://dsh.oxfordjournals.org/content/early/2015/11/06/llc.fqv053) [(link2)](http://dx.doi.org.sci-hub.cc/10.1093/llc/fqv053)
 - [LSCP: Enhanced Large Scale Colloquial Persian Language Understanding](https://www.aclweb.org/anthology/2020.lrec-1.776/)
 - [COPER: a Query-Adaptable Semantics-based Search Engine for Persian COVID-19 Articles](https://ieeexplore.ieee.org/abstract/document/9443151)
+- [Semi automatic Detection of Persian Stopwords using FastText Library](https://www.researchgate.net/publication/357835298_Semi-automatic_Detection_of_Persian_Stopwords_using_FastText_Library)
