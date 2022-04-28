@@ -54,6 +54,7 @@
 - [Grammar and context sensitive spell checker](https://ece.ut.ac.ir/web/nlp/resources) - It is a real-world test set for grammatical errors and context sensitive spelling errors for Persian language. This test set contains 1100 context sensitive errors and was collected from Persian Blogs.
 - [Spell Checker](https://ece.ut.ac.ir/web/nlp/resources) - Test set for spelling errors for Persian language.​
 - [CPG: Corpus of Persian Grammatical Errors](https://ece.ut.ac.ir/web/nlp/resources) - It  is a fully-annotated corpus of grammatical errors collected from 700 essays written by learners of Persian language in *Dehkhoda Lexicon Institute & International Centre for Persian Studies and Imam Khomeini International University*.
+- [PerSpellData](https://github.com/rominaoji/PerSpellData) - Comprehensive parallel dataset for persian non-word and real-word errors
 
 ## Textual Entailment 
 - [FarsTail](https://github.com/dml-qom/FarsTail) -  FarsTail is a dataset of textual entailment (also known as natural language inference, NLI) and it includes 10,367 samples in the Persian language. Here is [the relevant paper](https://arxiv.org/pdf/2009.08820.pdf). 
