@@ -13,6 +13,7 @@
 - [Dependency Parser](#dependency-parser)
 - [Shallow Parser](#shallow-parser)
 - [Information Extraction](#information-extraction)
+- [Text To Speech Preprocessing](#text-to-speech-preprocessing)
 - [Text To Speech](#text-to-speech)
 - [MISC](#misc)
 - [Keyphrase Extractor](#keyphrase-extractor)
@@ -41,6 +42,7 @@
 - [Farsi-Verb-Tokenizer](https://github.com/mehdi-manshadi/Farsi-Verb-Tokenizer) - Tokenizes Farsi Verbs.
 - [Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
 - [ParsiAnalyzer](https://github.com/NarimanN2/ParsiAnalyzer) -  Persian Analyzer For Elasticsearch.
+- [ParsiNorm](https://github.com/haraai/ParsiNorm) - Persain Text Pre-Proceesing Tool
 
 ## Normalizer And Text Cleaner
 - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
@@ -83,6 +85,9 @@
 ## Information Extraction
 - [Baaz](https://github.com/sobhe/information-extraction) - Open information extraction from Persian web.
 
+## Text To Speech Preprocessing
+- [ParsiNorm](https://github.com/haraai/ParsiNorm) - Persain Text Pre-Proceesing Tool
+
 ## Text To Speech
 - [AlisterTA TTS](https://github.com/AlisterTA/Persian-text-to-speech) - A convolutional sequence to sequence model for Persian text to speech based on Tachibana et al with a few modifications.
 
@@ -91,3 +96,4 @@
 
 ## Keyphrase Extractor
 - [Perke](https://github.com/AlirezaTheH/perke) - Perke is a Python keyphrase extraction package for Persian language. It provides an end-to-end keyphrase extraction pipeline in which each component can be easily modified or extended to develop new models.
+
