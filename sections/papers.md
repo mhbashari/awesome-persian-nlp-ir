@@ -7,6 +7,7 @@
 - [Semantic Similarity](#semantic-similarity)
 - [Question Answering](#question-answering)
 - [MISC](#misc)
+- [Spell Checker](#spell-checker)
 
 ## Sentiment
 - [Presenting A Sentiment Analysis System Using Deep Learning Models On Persian Texts (In Persian)](https://zenodo.org/record/3551273)
@@ -39,3 +40,5 @@
 - [Semi Automatic Detection of Persian Stopwords using FastText Library](https://ieeexplore.ieee.org/document/9721519)
 - [Abusive Words Detection in Persian Tweets using Machine Learning and Deep Learning Techniques](https://ieeexplore.ieee.org/document/9729390)
 
+## Spell Checker
+[PerSpellData: An Exhaustive Parallel Spell Dataset For Persian](https://aclanthology.org/2021.nsurl-1.2.pdf)
