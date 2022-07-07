@@ -8,6 +8,7 @@
   - [Question Answering](#question-answering)
   - [Embeddings](#embeddings)
   - [Language Model](#language-model)
+  - [Grapheme to Phoneme](#grapheme-to-phoneme)
 
 ## Named Entity Recognition
 - [ParsBERT-NER](https://github.com/hooshvare/parsbert-ner) - It is a fine-tuned model based on ParsBERT (a monolingual Persian language model) on a vast range of dataset PEYMA, ARMAN, and PEYMA+ARMAN.
@@ -61,3 +62,8 @@
 ## Language Model
 - [ParsBERT: Transformer-based Model for Persian Language Understanding)](https://github.com/hooshvare/parsbert) - It is a monolingual language model based on Google’s BERT architecture for the Persian Language only! This model is pre-trained on a large Persian corpus with various writing styles from numerous subjects (e.g., scientific, novels, news) with more than 2M documents. A large subset of this corpus was crawled manually.
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations for the Persian Language](https://github.com/m3hrdadfi/albert-persian) - ALBERT is the first attempt on ALBERT for the Persian Language. The model was trained based on Google's ALBERT BASE Version 2.0 over various writing styles from numerous subjects (e.g., scientific, novels, news) with more than 3.9M documents, 73M sentences, and 1.3B words, like the way we did for ParsBERT.
+
+## Grapheme to Phoneme
+- [g2p_fa](https://github.com/de-mh/g2p_fa) - A Persian Grapheme to Phoneme model using LSTM implemented in pytorch.
+- [Persian_g2p](https://github.com/AzamRabiee/Persian_G2P) - A seq-to-seq model for Persian (Farsi) Grapheme To Phoneme mapping.
+- [G2P](https://github.com/hajix/G2P) - Attention Based Grapheme To Phoneme
