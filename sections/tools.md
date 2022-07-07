@@ -17,6 +17,7 @@
 - [Text To Speech](#text-to-speech)
 - [MISC](#misc)
 - [Keyphrase Extractor](#keyphrase-extractor)
+- [Speech Recognition](#speech-recognition)
 
 ## Part-of-Speech Tagger
 - [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
@@ -97,3 +98,6 @@
 ## Keyphrase Extractor
 - [Perke](https://github.com/AlirezaTheH/perke) - Perke is a Python keyphrase extraction package for Persian language. It provides an end-to-end keyphrase extraction pipeline in which each component can be easily modified or extended to develop new models.
 
+## Speech Recognition
+- [Vosk](https://github.com/alphacep/vosk-api) - Vosk is an offline open source speech recognition toolkit. It enables speech recognition for 20+ languages and dialects. Supports Persian.
+- [m3hrdadfi/wav2vec](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3) - Persian speech recognition model based on XLS-R.
