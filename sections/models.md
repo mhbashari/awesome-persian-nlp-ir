@@ -65,3 +65,5 @@
 
 ## Grapheme to Phoneme
 - [g2p_fa](https://github.com/de-mh/g2p_fa) - A Persian Grapheme to Phoneme model using LSTM implemented in pytorch.
+- [Persian_g2p](https://github.com/AzamRabiee/Persian_G2P) - A seq-to-seq model for Persian (Farsi) Grapheme To Phoneme mapping.
+- [G2P](https://github.com/hajix/G2P) - Attention Based Grapheme To Phoneme
