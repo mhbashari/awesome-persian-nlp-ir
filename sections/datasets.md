@@ -55,6 +55,7 @@
 - [Spell Checker](https://ece.ut.ac.ir/web/nlp/resources) - Test set for spelling errors for Persian language.​
 - [CPG: Corpus of Persian Grammatical Errors](https://ece.ut.ac.ir/web/nlp/resources) - It  is a fully-annotated corpus of grammatical errors collected from 700 essays written by learners of Persian language in *Dehkhoda Lexicon Institute & International Centre for Persian Studies and Imam Khomeini International University*.
 - [PerSpellData](https://github.com/rominaoji/PerSpellData) - Comprehensive parallel dataset for persian non-word and real-word errors
+- [HeKasre](https://github.com/AUT-Data-Group/HeKasre) - Detect and correct misspelled "e" sound in Persian (aka Farsi) writing (especially in an informal setting) 
 
 ## Textual Entailment 
 - [FarsTail](https://github.com/dml-qom/FarsTail) -  FarsTail is a dataset of textual entailment (also known as natural language inference, NLI) and it includes 10,367 samples in the Persian language. Here is [the relevant paper](https://arxiv.org/pdf/2009.08820.pdf). 
@@ -77,6 +78,8 @@
 - [LexiPers](https://github.com/phosseini/lexipers) - An ontology based sentiment lexicon for Persian.  
 - [SnappFood](https://hooshvare.github.io/docs/datasets/sa#snappfood) - Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification), `Happy` and `Sad`.
 - [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion) - This repository contains information about MirasOpinion dataset, which is the largest Persian sentiment analysis dataset up to this date, alongside a demo file which contains 20 documents with their corresponding labels.
+- [EmoPars](https://github.com/nazaninsbr/Persian-Emotion-Detection) - A Collection of 30K Emotion-Annotated Persian Social MediaTexts
+- [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
 
 ## Summarization
 - [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary) - Wiki Summary is a summarization dataset extracted from Persian Wikipedia into the form of articles and highlights.
@@ -108,6 +111,8 @@
 
 - [Hamshahri](http://dbrg.ut.ac.ir/Hamshahri/download.html) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
 - [Prallel Gold Data from Wikipedia](https://ece.ut.ac.ir/web/nlp/resources) - This dataset contains parallel sentences, which are tagged from 33 wikipedia pages.
+- [PREDICT](https://github.com/AUT-Data-Group/PREDICT-Persian-Reverse-Dictionary) - Persian REverse DICTionary
+- [Iranian politicians twitter dataset persian](https://github.com/miladfa7/Iranian-politicians-twitter-dataset-persian)
 
 ## Stop Word Lists
 - [Persian stopwords collection](https://github.com/ziaa/Persian-stopwords-collection) - A collection of Persian stop words list
@@ -120,9 +125,13 @@
 ## Knowledge Bases
 - [FarsBase](http://farsbase.net/about) -  FarsBase the first Persian multi-source knowledge graph, which isspecifically designed for semantic search engines to support Persian knowledge. FarsBase uses a diverse set of hybrid and flexible techniques to extract and integrate knowledge from various sources, such as Wikipedia, Web tables and unstructured texts. Here is [the relevant paper](http://www.semantic-web-journal.net/system/files/swj2210.pdf). 
 
+## Intent Detection & Slot filling
+- [Persian-ATIS](https://github.com/Makbari1997/Persian-Atis) - A Persian Benchmark for Joint Intent Detection and Slot Filling 
+
 ## MISC
 - [ParsiNLU](https://github.com/persiannlp/parsinlu) - A collection natural language understanding datasets for Persian. [Here is the relevant paper.](https://arxiv.org/abs/2012.06154)
 - [PersianStemmingDataset](https://github.com/MrHTZ/PersianStemmingDataset) - PersianStemmingDataset is consist of two manually stemmed persian corpora and an evalution tools in order to compute stemming evaluatin metrics.
 - [PersPred](http://perspred.cnrs.fr/perspred-project) - PersPred, is the first online multilingual syntactic and semantic database of Persian compound verbs (complex predicates), developed by the members of the research unit Mondes iranien et indien (CNRS, Sorbonne Nouvelle, Inalco, EPHE) within the ANR-DFG project PERGRAM (2008-2012) and the LR4.1 work package of the Strand 6 of the Labex Empirical Foundations of Linguistics (EFL).
 - [Popularity Prediction](https://ece.ut.ac.ir/web/nlp/resources) - It is Tabnak and Alef Datasets which are the most famous online news agencies in Iran. This dataset includes content, title, date, category and number of comments per each news. Besides popularity of these websites, the wide range of news categories they cover and they have the multilevel commenting structure.
 - [Conversation Threads Prediction](https://ece.ut.ac.ir/web/nlp/resources) - It consists of five Datasets. These datasets have been crawled from 5 websites, including Thestandard , Alef , ENENews , Russianblog and Courantblogs Datasets (XML format). Thay are selected due to several reasons:
+- [Iran and COVID-19 on Social Media](https://github.com/phosseini/COVID19-fa) - Content analysis of Persian Tweets during COVID-19 pandemic in Iran using NLP
