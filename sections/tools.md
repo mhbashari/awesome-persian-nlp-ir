@@ -44,6 +44,7 @@
 - [Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
 - [ParsiAnalyzer](https://github.com/NarimanN2/ParsiAnalyzer) -  Persian Analyzer For Elasticsearch.
 - [ParsiNorm](https://github.com/haraai/ParsiNorm) - Persain Text Pre-Proceesing Tool
+- [Persian Tools](https://github.com/persian-tools/py-persian-tools) - An anthology of a variety of tools for the Persian language in Python
 
 ## Normalizer And Text Cleaner
 - [HAZM](http://www.sobhe.ir/hazm/) - Python library for digesting Persian text.
@@ -53,6 +54,7 @@
 - [Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian (Has Half-Space Normalizer and Pinglish Conversion)
 - [ParsiAnalyzer](https://github.com/NarimanN2/ParsiAnalyzer) -  Persian Analyzer For Elasticsearch.
 - [ParsiNorm](https://github.com/haraai/ParsiNorm) - Persain Text Pre-Proceesing Tool
+- [Persian Tools](https://github.com/persian-tools/py-persian-tools) - An anthology of a variety of tools for the Persian language in Python
  
 ## Translator
 - [SPL](https://github.com/stanford-oval/SPL) - Semantic Parser Localizer toolkit can be used to translate text between any language pairs for which an NMT model exists. We currently support [Marian](https://github.com/marian-nmt/marian) models and Google Translate. In general, for translations to or from Persian, Google Translate has higher quality.
@@ -88,6 +90,7 @@
 
 ## Text To Speech Preprocessing
 - [ParsiNorm](https://github.com/haraai/ParsiNorm) - Persain Text Pre-Proceesing Tool
+- [Persian Tools](https://github.com/persian-tools/py-persian-tools) - An anthology of a variety of tools for the Persian language in Python
 
 ## Text To Speech
 - [AlisterTA TTS](https://github.com/AlisterTA/Persian-text-to-speech) - A convolutional sequence to sequence model for Persian text to speech based on Tachibana et al with a few modifications.
