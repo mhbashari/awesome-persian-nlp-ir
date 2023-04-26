@@ -113,6 +113,7 @@
 - [Prallel Gold Data from Wikipedia](https://ece.ut.ac.ir/web/nlp/resources) - This dataset contains parallel sentences, which are tagged from 33 wikipedia pages.
 - [PREDICT](https://github.com/AUT-Data-Group/PREDICT-Persian-Reverse-Dictionary) - Persian REverse DICTionary
 - [Iranian politicians twitter dataset persian](https://github.com/miladfa7/Iranian-politicians-twitter-dataset-persian)
+- [iPerUDT](https://github.com/royakabiri/iPerUDT) - Informal Persian Universal Dependency Treebank
 
 ## Stop Word Lists
 - [Persian stopwords collection](https://github.com/ziaa/Persian-stopwords-collection) - A collection of Persian stop words list
