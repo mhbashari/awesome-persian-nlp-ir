@@ -56,6 +56,7 @@
 - [CPG: Corpus of Persian Grammatical Errors](https://ece.ut.ac.ir/web/nlp/resources) - It  is a fully-annotated corpus of grammatical errors collected from 700 essays written by learners of Persian language in *Dehkhoda Lexicon Institute & International Centre for Persian Studies and Imam Khomeini International University*.
 - [PerSpellData](https://github.com/rominaoji/PerSpellData) - Comprehensive parallel dataset for persian non-word and real-word errors
 - [HeKasre](https://github.com/AUT-Data-Group/HeKasre) - Detect and correct misspelled "e" sound in Persian (aka Farsi) writing (especially in an informal setting) 
+- [Lilak](https://github.com/b00f/lilak) - Persian Spell Checking Dictionary
 
 ## Textual Entailment 
 - [FarsTail](https://github.com/dml-qom/FarsTail) -  FarsTail is a dataset of textual entailment (also known as natural language inference, NLI) and it includes 10,367 samples in the Persian language. Here is [the relevant paper](https://arxiv.org/pdf/2009.08820.pdf). 
