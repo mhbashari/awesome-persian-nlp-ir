@@ -81,7 +81,6 @@
 - [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion) - This repository contains information about MirasOpinion dataset, which is the largest Persian sentiment analysis dataset up to this date, alongside a demo file which contains 20 documents with their corresponding labels.
 - [EmoPars](https://github.com/nazaninsbr/Persian-Emotion-Detection) - A Collection of 30K Emotion-Annotated Persian Social MediaTexts
 - [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
-- [SBU-WSD-Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus) - A Sense Annotated Corpus for Persian All-Words Word Sense Disambiguation
 
 ## Summarization
 - [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary) - Wiki Summary is a summarization dataset extracted from Persian Wikipedia into the form of articles and highlights.
@@ -142,3 +141,4 @@
 - [Popularity Prediction](https://ece.ut.ac.ir/web/nlp/resources) - It is Tabnak and Alef Datasets which are the most famous online news agencies in Iran. This dataset includes content, title, date, category and number of comments per each news. Besides popularity of these websites, the wide range of news categories they cover and they have the multilevel commenting structure.
 - [Conversation Threads Prediction](https://ece.ut.ac.ir/web/nlp/resources) - It consists of five Datasets. These datasets have been crawled from 5 websites, including Thestandard , Alef , ENENews , Russianblog and Courantblogs Datasets (XML format). Thay are selected due to several reasons:
 - [Iran and COVID-19 on Social Media](https://github.com/phosseini/COVID19-fa) - Content analysis of Persian Tweets during COVID-19 pandemic in Iran using NLP
+- [SBU-WSD-Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus) - A Sense Annotated Corpus for Persian All-Words Word Sense Disambiguation
