@@ -82,6 +82,7 @@
 - [EmoPars](https://github.com/nazaninsbr/Persian-Emotion-Detection) - A Collection of 30K Emotion-Annotated Persian Social MediaTexts
 - [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
 - [ExaPPC](https://github.com/exaco/exappc) - A Large-Scale Persian Paraphrase Detection Corpus
+- [SBU-WSD-Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus) - A Sense Annotated Corpus for Persian All-Words Word Sense Disambiguation
 
 ## Summarization
 - [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary) - Wiki Summary is a summarization dataset extracted from Persian Wikipedia into the form of articles and highlights.
