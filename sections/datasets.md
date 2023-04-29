@@ -81,6 +81,7 @@
 - [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion) - This repository contains information about MirasOpinion dataset, which is the largest Persian sentiment analysis dataset up to this date, alongside a demo file which contains 20 documents with their corresponding labels.
 - [EmoPars](https://github.com/nazaninsbr/Persian-Emotion-Detection) - A Collection of 30K Emotion-Annotated Persian Social MediaTexts
 - [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
+- [ExaPPC](https://github.com/exaco/exappc) - A Large-Scale Persian Paraphrase Detection Corpus
 
 ## Summarization
 - [Wiki Summary](https://github.com/m3hrdadfi/wiki-summary) - Wiki Summary is a summarization dataset extracted from Persian Wikipedia into the form of articles and highlights.
