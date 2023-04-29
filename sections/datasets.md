@@ -81,7 +81,6 @@
 - [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion) - This repository contains information about MirasOpinion dataset, which is the largest Persian sentiment analysis dataset up to this date, alongside a demo file which contains 20 documents with their corresponding labels.
 - [EmoPars](https://github.com/nazaninsbr/Persian-Emotion-Detection) - A Collection of 30K Emotion-Annotated Persian Social MediaTexts
 - [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
-- [ExaPPC](https://github.com/exaco/exappc) - A Large-Scale Persian Paraphrase Detection Corpus
 - [SBU-WSD-Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus) - A Sense Annotated Corpus for Persian All-Words Word Sense Disambiguation
 
 ## Summarization
@@ -132,6 +131,9 @@
 
 ## Intent Detection & Slot filling
 - [Persian-ATIS](https://github.com/Makbari1997/Persian-Atis) - A Persian Benchmark for Joint Intent Detection and Slot Filling 
+
+## Paraphrasing
+- [ExaPPC](https://github.com/exaco/exappc) - A Large-Scale Persian Paraphrase Detection Corpus
 
 ## MISC
 - [ParsiNLU](https://github.com/persiannlp/parsinlu) - A collection natural language understanding datasets for Persian. [Here is the relevant paper.](https://arxiv.org/abs/2012.06154)
