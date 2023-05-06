@@ -6,8 +6,10 @@
 - [Text Classification](#text-classification)
 - [Semantic Similarity](#semantic-similarity)
 - [Question Answering](#question-answering)
-- [MISC](#misc)
 - [Spell Checker](#spell-checker)
+- [Books](#books)
+- [MISC](#misc)
+
 
 ## Sentiment
 - [Presenting A Sentiment Analysis System Using Deep Learning Models On Persian Texts (In Persian)](https://zenodo.org/record/3551273)
@@ -44,4 +46,4 @@
 [PerSpellData: An Exhaustive Parallel Spell Dataset For Persian](https://aclanthology.org/2021.nsurl-1.2.pdf)
 
 ## Books
-[Persian Computational Linguistics and NLP] (https://www.degruyter.com/document/isbn/9783110619225/html?)
+[Persian Computational Linguistics and NLP](https://www.degruyter.com/document/isbn/9783110619225/html?)
