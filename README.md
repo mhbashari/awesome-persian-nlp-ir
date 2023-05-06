@@ -6,7 +6,7 @@ This repository is going to be a curation of every research and efforts on Persi
 - [Datasets](sections/datasets.md)
 - [Models](sections/models.md)
 - [Repositories](sections/repos.md)
-- [Papers](sections/papers.md)
+- [Papers and Books](sections/papers_and_books.md)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
