@@ -42,3 +42,6 @@
 
 ## Spell Checker
 [PerSpellData: An Exhaustive Parallel Spell Dataset For Persian](https://aclanthology.org/2021.nsurl-1.2.pdf)
+
+## Books
+[Persian Computational Linguistics and NLP] (https://www.degruyter.com/document/isbn/9783110619225/html?)
