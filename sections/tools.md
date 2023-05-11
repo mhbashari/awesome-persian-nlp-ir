@@ -104,3 +104,6 @@
 ## Speech Recognition
 - [Vosk](https://github.com/alphacep/vosk-api) - Vosk is an offline open source speech recognition toolkit. It enables speech recognition for 20+ languages and dialects. Supports Persian.
 - [m3hrdadfi/wav2vec](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3) - Persian speech recognition model based on XLS-R.
+
+## Metrics
+- [Rouge](https://pypi.org/project/rouge/) - Full Python ROUGE Score Implementation (not a wrapper)
