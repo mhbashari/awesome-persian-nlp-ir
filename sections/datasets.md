@@ -135,6 +135,9 @@
 ## Paraphrasing
 - [ExaPPC](https://github.com/exaco/exappc) - A Large-Scale Persian Paraphrase Detection Corpus
 
+## Text-to-Speech(TTS)
+- [A farsi to finglish dataset](https://github.com/rowshanattar/persian-text-to-speech/blob/main/sub-test.csv)
+
 ## MISC
 - [ParsiNLU](https://github.com/persiannlp/parsinlu) - A collection natural language understanding datasets for Persian. [Here is the relevant paper.](https://arxiv.org/abs/2012.06154)
 - [PersianStemmingDataset](https://github.com/MrHTZ/PersianStemmingDataset) - PersianStemmingDataset is consist of two manually stemmed persian corpora and an evalution tools in order to compute stemming evaluatin metrics.
