@@ -80,6 +80,7 @@
 - [SnappFood](https://hooshvare.github.io/docs/datasets/sa#snappfood) - Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification), `Happy` and `Sad`.
 - [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion) - This repository contains information about MirasOpinion dataset, which is the largest Persian sentiment analysis dataset up to this date, alongside a demo file which contains 20 documents with their corresponding labels.
 - [EmoPars](https://github.com/nazaninsbr/Persian-Emotion-Detection) - A Collection of 30K Emotion-Annotated Persian Social MediaTexts
+- [ArmanEmo](https://github.com/Arman-Rayan-Sharif/arman-text-emotion) - A non-commercial version of ArmanEMO,A high quality human-labeled emotion dataset of more than 7000 Persian sentences labeled for seven categories, Labels are based on Ekman's six basic emotions (Anger, Fear, Happiness, Hatred, Sadness, Wonder) and another category (Other).
 - [Persian tweets emotional dataset](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
 
 ## Summarization
