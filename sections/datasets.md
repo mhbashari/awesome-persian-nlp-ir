@@ -90,6 +90,7 @@
 - [PersianQA](https://github.com/sajjjadayobi/PersianQA) - Persian Question Answering (PersianQA) Dataset is a reading comprehension dataset on Persian Wikipedia. The crowd-sourced dataset consists of more than 9,000 entries. Each entry can be either an impossible-to-answer or a question with one or more answers spanning in the passage (the context) from which the questioner proposed the question. Much like the SQuAD2.0 dataset, the impossible or unanswerable questions can be utilized to create a system which "knows that it doesn't know the answer".
 - [ParsVQA-Caps](https://www.kaggle.com/datasets/af4f893668e3aef3610b813604b366eeecd26177aa105581c85fd4dd7ac5aa51) - A Benchmark for Visual Question Answering and Image Captioning in Persian
 - [MeDiaPQA](https://data.mendeley.com/datasets/k7tzmrhr6n/1) - A Question-Answering Dataset on Persian Medical Dialogues
+- [Persian QA Wikipedia](https://www.kaggle.com/datasets/amirpourmand/persian-qa-wikipedia) - A Question Anwering Dataset on wikipedia paragraphs
 
 ## Irony - Insult
 - [MirasIrony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony) - The irony dataset is constructed from Persian tweets. 2942 tweets are labeled in total.
@@ -117,7 +118,12 @@
 - [PREDICT](https://github.com/AUT-Data-Group/PREDICT-Persian-Reverse-Dictionary) - Persian REverse DICTionary
 - [Iranian politicians twitter dataset persian](https://github.com/miladfa7/Iranian-politicians-twitter-dataset-persian)
 - [iPerUDT](https://github.com/royakabiri/iPerUDT) - Informal Persian Universal Dependency Treebank
-
+- [Tasnim News](https://www.kaggle.com/datasets/amirpourmand/tasnimdataset) - Tasnim news dataset
+- [Asriran News](https://www.kaggle.com/datasets/amirpourmand/asriran-news) - Asriran news dataset
+- [Isna News Agency](https://www.kaggle.com/datasets/amirpourmand/isna-news) - Isna news agency dataset
+- [Ensani.ir Abstrats](https://www.kaggle.com/datasets/amirpourmand/ensani-abstracts) - Abstracts extracted from ensani.ir
+- [Tarjoman Articles](https://www.kaggle.com/datasets/amirpourmand/tarjoman-persian-text) - Extracted Tarjoman Articles
+  
 ## Stop Word Lists
 - [Persian stopwords collection](https://github.com/ziaa/Persian-stopwords-collection) - A collection of Persian stop words list
 - [Hazm stop words](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat) - Stop words list, good for IR.
