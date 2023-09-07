@@ -18,6 +18,7 @@
 - [MISC](#misc)
 - [Keyphrase Extractor](#keyphrase-extractor)
 - [Speech Recognition](#speech-recognition)
+- [Persian Phonemizer](#persian-phonemizer)
 
 ## Part-of-Speech Tagger
 - [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
@@ -94,6 +95,9 @@
 
 ## Text To Speech
 - [AlisterTA TTS](https://github.com/AlisterTA/Persian-text-to-speech) - A convolutional sequence to sequence model for Persian text to speech based on Tachibana et al with a few modifications.
+
+## Persian Phonemizer
+- [persian_phonemizer](https://github.com/de-mh/persian_phonemizer) - A tool for translating Persian text to IPA (International Phonetic Alphabet).
 
 ## MISC
 - [petit](https://github.com/JKhakpour/petit) - Convert alphabet-written numbers to digit-form
