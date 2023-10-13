@@ -1,4 +1,4 @@
-# Awesome Persian NLP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Persian NLP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of tools and research related to Persian NLP.
 
 ## Contents
@@ -232,7 +232,7 @@
 - [PersianStemmingDataset](https://github.com/MrHTZ/PersianStemmingDataset) - PersianStemmingDataset is consist of two manually stemmed persian corpora and an evalution tools in order to compute stemming evaluatin metrics.
 - [PersPred](http://perspred.cnrs.fr/perspred-project) - PersPred, is the first online multilingual syntactic and semantic database of Persian compound verbs (complex predicates), developed by the members of the research unit Mondes iranien et indien (CNRS, Sorbonne Nouvelle, Inalco, EPHE) within the ANR-DFG project PERGRAM (2008-2012) and the LR4.1 work package of the Strand 6 of the Labex Empirical Foundations of Linguistics (EFL).
 - [Popularity Prediction](https://ece.ut.ac.ir/web/nlp/resources) - It is Tabnak and Alef Datasets which are the most famous online news agencies in Iran. This dataset includes content, title, date, category and number of comments per each news. Besides popularity of these websites, the wide range of news categories they cover and they have the multilevel commenting structure.
-- [Conversation Threads Prediction](https://ece.ut.ac.ir/web/nlp/resources) - It consists of five Datasets. These datasets have been crawled from 5 websites, including Thestandard , Alef , ENENews , Russianblog and Courantblogs Datasets (XML format). Thay are selected due to several reasons:
+- [Conversation Threads Prediction](https://ece.ut.ac.ir/web/nlp/resources) - It consists of five Datasets. These datasets have been crawled from 5 websites, including Thestandard , Alef , ENENews , Russianblog and Courantblogs Datasets (XML format).
 - [Iran and COVID-19 on Social Media](https://github.com/phosseini/COVID19-fa) - Content analysis of Persian Tweets during COVID-19 pandemic in Iran using NLP
 - [SBU-WSD-Corpus](https://github.com/hrouhizadeh/SBU-WSD-Corpus) - A Sense Annotated Corpus for Persian All-Words Word Sense Disambiguation.
 
